@@ -1,5 +1,5 @@
 # Algorithm Study
-Team Note
+<p>Team Note</p>
 <table border=1>
   <tr>
     <th>서일현</th>

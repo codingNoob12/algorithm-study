@@ -1,4 +1,5 @@
 # Algorithm Study
+<p>매일 실버 5문제, 브론즈 10문제씩 풀어보고 코드리뷰</p>
 <p>Team Note</p>
 <table border=1>
   <tr>

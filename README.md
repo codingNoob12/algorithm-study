@@ -86,3 +86,17 @@ lst.sort(key=lambda x:(x[0], -x[1]))
 # [[1, 3], [1, 2], [2, 1], [3, 4], [3, 2]]
 ```
 ---
+
+# unpack
+- unpack연산자를 잘 사용하면 코드를 더 줄일 수 있다.
+```python
+lst = [1, 2, 3, 4, 5]
+for item in lst:
+  print(item)
+```
+```python
+lst = [1, 2, 3, 4, 5]
+print(*lst)
+```
+
+---

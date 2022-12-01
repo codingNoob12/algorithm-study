@@ -1,0 +1,5 @@
+a, b = map(int, input().split())
+start, end = min(a, b), max(a, b)
+nums = list(range(start+1, end))
+print(len(nums))
+print(*nums)

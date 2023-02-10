@@ -1,9 +1,4 @@
 # Algorithm Study
-Team Note
-|Name|Repository|
-|--|--|
-|서일현|https://github.com/codingNoob12/algorithm-study|
-|박창윤|https://github.com/iean3124/coding_test|
 
 ---
 
@@ -106,3 +101,33 @@ print(*lst)
   - 그렇기 때문에 r이 음수가 나올 수 있어 [백준 16428](https://www.acmicpc.net/problem/16428)같은 문제에서 주의해야한다.
 
 ---
+
+# 누적합 알고리즘
+## 정의
+  - 구간합을 처음부터 모두 계산하는 것이 아니라 누적합의 정의를 이용해 구간합을 구하는 알고리즘
+## 종류
+  - 1차원 배열
+    - 크기가 N인 1차원 배열 A가 존재한다고 가정하자. (A[1] ~ A[N])
+    - 이때, S[i]를 A[1] ~ A[i]의 합이라 가정하자.
+    - 즉, S[i] = A[1] + A[2] + ... + A[i]가 된다.
+    - 이때, A[j] ~ A[k]의 구간합을 누적합을 이용해 구하고 싶다면, 먼저 S[k] = A[1] + ... + A[j-1] + A[j] + ... + A[k]임을 확인 할 수 있다.
+    - S[k]에서 A[1] ~ A[j-1]의 누적합을 빼주면 내가 원하는 구간합을 구할 수 있다.
+    - 따라서, S[k] - S[j-1]로 구간합을 구하면 된다.
+  - 2차원 배열
+    - 크기가 N by M인 2차원 배열 A가 있다고 가정하자. (A[1][1] ~ A[N][M])
+    - 이때, S[i][j]를 A[1][1] ~ A[i][j]의 합이라 가정하자.
+    - 즉, S[i][j] = A[1][1] + ... + A[1][j] + ... + A[N][1] + ... + A[N][j]
+    - 이때, A[i][j] ~ A[x][y]의 구간합을 누적합을 이용해 구하고 싶다면, S[x][y] - S[x][j-1] - S[i-1][y] + S[i-1][j-1]로 구할 수 있다.
+    - 누적합의 시작 지점이 (1,1)임을 생각하면 구간합을 구하기 위해서는 위와 같은 식이 도출 됨을 알 수 있다.
+    ```python
+    def prefix_sum_2d(N, M, arr, Q):
+        pre_sum = [[0 for j in range(M + 1)] for i in range(N + 1)]
+        for i in range(1, N + 1):
+            for j in range(1, M + 1):
+                pre_sum[i][j] = pre_sum[i][j - 1] + pre_sum[i - 1][j] - pre_sum[i - 1][j - 1] + arr[i - 1][j - 1]
+
+        result = []
+        for i, j, x, y in Q:
+            result.append(pre_sum[x][y] - pre_sum[x][j - 1] - pre_sum[i - 1][y] + pre_sum[i - 1][j - 1])
+        return result
+    ```

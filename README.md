@@ -131,7 +131,7 @@ print(*lst)
             result.append(pre_sum[x][y] - pre_sum[x][j - 1] - pre_sum[i - 1][y] + pre_sum[i - 1][j - 1])
         return result
     ```
-    - 참고 : https://nahwasa.com/entry/%EB%88%84%EC%A0%81-%ED%95%A9prefix-sum-2%EC%B0%A8%EC%9B%90-%EB%88%84%EC%A0%81%ED%95%A9prefix-sum-of-matrix-with-java|
+    - [참고](https://nahwasa.com/entry/%EB%88%84%EC%A0%81-%ED%95%A9prefix-sum-2%EC%B0%A8%EC%9B%90-%EB%88%84%EC%A0%81%ED%95%A9prefix-sum-of-matrix-with-java)
 
 ---
 
@@ -175,4 +175,4 @@ for _ in range(m):
         # a와 b의 대표 원소가 같은지 확인
         print('YES' if find(a) == find(b) else 'NO')
 ```
-- 참고 : https://brenden.tistory.com/33
+- [참고](https://brenden.tistory.com/33)

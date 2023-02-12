@@ -132,3 +132,47 @@ print(*lst)
         return result
     ```
     - 참고 : https://nahwasa.com/entry/%EB%88%84%EC%A0%81-%ED%95%A9prefix-sum-2%EC%B0%A8%EC%9B%90-%EB%88%84%EC%A0%81%ED%95%A9prefix-sum-of-matrix-with-java|
+
+---
+
+# union-find 알고리즘
+## 정의
+- 여러 노드가 존재할 때, 두 노드를 선택해서 현재 두 노드가 같은 그래프에 존재하는지 판별하는 알고리즘
+- 상호 배타적 집합(disjoint-set)이라고 하기도 함.
+- 주로 합집합을 찾을 때 사용함
+## 연산
+- find : x가 어떤 집합에 속하는지 찾는 연산
+- union : x와 y가 포함된 두 집합을 합치는 연산
+## 예제 코드 (백준 1717번)
+```python
+import sys
+
+sys.setrecursionlimit(10 ** 6)
+input = sys.stdin.readline
+n, m = map(int, input().rstrip().split())
+
+# 각 원소의 대표 원소를 저장하는 리스트
+parent = [i for i in range(n+1)]
+
+def find(x):
+    # x의 대표 원소를 찾는 함수
+    if parent[x] == x:
+        return x
+    parent[x] = find(parent[x])
+    return parent[x]
+
+for _ in range(m):
+    op, a, b = map(int, input().rstrip().split())
+    if op == 0:
+        # a와 b의 대표 원소를 찾은 후, 작은 것을 큰 것의 대표 원소로 연결
+        a = find(a)
+        b = find(b)
+        if a < b:
+            parent[b] = a
+        else:
+            parent[a] = b
+    else:
+        # a와 b의 대표 원소가 같은지 확인
+        print('YES' if find(a) == find(b) else 'NO')
+```
+- 참고 : https://brenden.tistory.com/33

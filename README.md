@@ -176,3 +176,52 @@ for _ in range(m):
         print('YES' if find(a) == find(b) else 'NO')
 ```
 - [참고](https://brenden.tistory.com/33)
+
+---
+
+# 동적 계획법 (DP)
+## 정의
+- 어떤 문제를 풀기 위해 그 문제를 더 작은 문제의 연장선으로 생각하고, 과거에 구한 해를 활용하는 방식
+- 일반적으로 재귀적으로 정의되는 문제에 사용되고, 기존의 결과를 메모리에 저장하여 최적화한다.
+## 종류
+### 메모제이션 방식
+- 큰 값부터 작은 값으로 진행 (하향식 접근)
+#### 예제 코드 (백준 13301)
+```python
+def radius(n):
+    if n in (1, 2):
+        RADIUS[n - 1], RADIUS[n - 2] = 1, 1
+        return 1
+    if RADIUS[n - 2] == 0:
+        RADIUS[n - 2] = radius(n - 1)
+    if RADIUS[n - 3] == 0:
+        RADIUS[n - 3] = radius(n - 2)
+    return RADIUS[n - 2] + RADIUS[n - 3]
+
+
+n = int(input())
+RADIUS = [0] * n
+RADIUS[n - 1] = radius(n)
+a, b = 0, 0
+if n == 1:
+    a, b = RADIUS[-1], RADIUS[-1]
+else:
+    a, b = RADIUS[-1], RADIUS[-1] + RADIUS[-2]
+print(2 * (a + b))
+
+```
+### Bottom-Up 방식
+- 작은 값부터 큰 값으로 진행 (상향식 방식)
+#### 예제 코드 (백준 1463)
+```python
+n = int(input())
+mem = [0] * (n + 1)
+for x in range(2, n + 1):
+    candidates = [mem[x - 1]]
+    if x % 3 == 0:
+        candidates.append(mem[x // 3])
+    if x % 2 == 0:
+        candidates.append(mem[x // 2])
+    mem[x] = min(candidates) + 1
+print(mem[n])
+```

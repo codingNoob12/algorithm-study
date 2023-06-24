@@ -1,13 +1,13 @@
 def makePattern(n):
     if n == 3:
-        top = bottom = '*' * 3
-        mid = '*' + ' ' + '*'
+        top = bottom = "*" * 3
+        mid = "*" + " " + "*"
         return [top, mid, bottom]
 
     offset = n // 3
     previous = makePattern(offset)
-    blank = [' ' * (offset) for _ in range(offset)]
-    
+    blank = [" " * (offset) for _ in range(offset)]
+
     pattern = []
     # top
     for i in range(3):
@@ -38,8 +38,9 @@ def makePattern(n):
         else:
             for i in range(len(previous)):
                 pattern[i + 2 * offset] += previous[i]
-    
+
     return pattern
+
 
 n = int(input())
 for line in makePattern(n):

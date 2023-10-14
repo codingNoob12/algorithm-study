@@ -1,7 +1,7 @@
 K, N = map(int, input().split())
 lengths = [int(input()) for _ in range(K)]
 start, end = 1, max(lengths)
-while start < end:
+while start <= end:
     mid = (start + end) // 2
 
     count = 0

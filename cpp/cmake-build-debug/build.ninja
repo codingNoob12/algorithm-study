@@ -1683,6 +1683,378 @@ build 1158_3: CXX_EXECUTABLE_LINKER__1158_3_Debug CMakeFiles/1158_3.dir/바킹�
   TARGET_FILE = 1158_3
   TARGET_PDB = 1158_3.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target stack_test
+
+
+#############################################
+# Order-only phony target for stack_test
+
+build cmake_object_order_depends_target_stack_test: phony || CMakeFiles/stack_test.dir
+
+build CMakeFiles/stack_test.dir/바킹독_알고리즘/스택/stack_test.cpp.o: CXX_COMPILER__stack_test_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/스택/stack_test.cpp || cmake_object_order_depends_target_stack_test
+  DEP_FILE = CMakeFiles/stack_test.dir/바킹독_알고리즘/스택/stack_test.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/stack_test.dir
+  OBJECT_FILE_DIR = CMakeFiles/stack_test.dir/바킹독_알고리즘/스택
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target stack_test
+
+
+#############################################
+# Link the executable stack_test
+
+build stack_test: CXX_EXECUTABLE_LINKER__stack_test_Debug CMakeFiles/stack_test.dir/바킹독_알고리즘/스택/stack_test.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
+  OBJECT_DIR = CMakeFiles/stack_test.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = stack_test
+  TARGET_PDB = stack_test.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target stack_example
+
+
+#############################################
+# Order-only phony target for stack_example
+
+build cmake_object_order_depends_target_stack_example: phony || CMakeFiles/stack_example.dir
+
+build CMakeFiles/stack_example.dir/바킹독_알고리즘/스택/stack_example.cpp.o: CXX_COMPILER__stack_example_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/스택/stack_example.cpp || cmake_object_order_depends_target_stack_example
+  DEP_FILE = CMakeFiles/stack_example.dir/바킹독_알고리즘/스택/stack_example.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/stack_example.dir
+  OBJECT_FILE_DIR = CMakeFiles/stack_example.dir/바킹독_알고리즘/스택
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target stack_example
+
+
+#############################################
+# Link the executable stack_example
+
+build stack_example: CXX_EXECUTABLE_LINKER__stack_example_Debug CMakeFiles/stack_example.dir/바킹독_알고리즘/스택/stack_example.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
+  OBJECT_DIR = CMakeFiles/stack_example.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = stack_example
+  TARGET_PDB = stack_example.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 10828
+
+
+#############################################
+# Order-only phony target for 10828
+
+build cmake_object_order_depends_target_10828: phony || CMakeFiles/10828.dir
+
+build CMakeFiles/10828.dir/바킹독_알고리즘/스택/10828.cpp.o: CXX_COMPILER__10828_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/스택/10828.cpp || cmake_object_order_depends_target_10828
+  DEP_FILE = CMakeFiles/10828.dir/바킹독_알고리즘/스택/10828.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/10828.dir
+  OBJECT_FILE_DIR = CMakeFiles/10828.dir/바킹독_알고리즘/스택
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 10828
+
+
+#############################################
+# Link the executable 10828
+
+build 10828: CXX_EXECUTABLE_LINKER__10828_Debug CMakeFiles/10828.dir/바킹독_알고리즘/스택/10828.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
+  OBJECT_DIR = CMakeFiles/10828.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 10828
+  TARGET_PDB = 10828.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 10828_1
+
+
+#############################################
+# Order-only phony target for 10828_1
+
+build cmake_object_order_depends_target_10828_1: phony || CMakeFiles/10828_1.dir
+
+build CMakeFiles/10828_1.dir/바킹독_알고리즘/스택/10828_1.cpp.o: CXX_COMPILER__10828_1_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/스택/10828_1.cpp || cmake_object_order_depends_target_10828_1
+  DEP_FILE = CMakeFiles/10828_1.dir/바킹독_알고리즘/스택/10828_1.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/10828_1.dir
+  OBJECT_FILE_DIR = CMakeFiles/10828_1.dir/바킹독_알고리즘/스택
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 10828_1
+
+
+#############################################
+# Link the executable 10828_1
+
+build 10828_1: CXX_EXECUTABLE_LINKER__10828_1_Debug CMakeFiles/10828_1.dir/바킹독_알고리즘/스택/10828_1.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
+  OBJECT_DIR = CMakeFiles/10828_1.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 10828_1
+  TARGET_PDB = 10828_1.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 10773
+
+
+#############################################
+# Order-only phony target for 10773
+
+build cmake_object_order_depends_target_10773: phony || CMakeFiles/10773.dir
+
+build CMakeFiles/10773.dir/바킹독_알고리즘/스택/10773.cpp.o: CXX_COMPILER__10773_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/스택/10773.cpp || cmake_object_order_depends_target_10773
+  DEP_FILE = CMakeFiles/10773.dir/바킹독_알고리즘/스택/10773.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/10773.dir
+  OBJECT_FILE_DIR = CMakeFiles/10773.dir/바킹독_알고리즘/스택
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 10773
+
+
+#############################################
+# Link the executable 10773
+
+build 10773: CXX_EXECUTABLE_LINKER__10773_Debug CMakeFiles/10773.dir/바킹독_알고리즘/스택/10773.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
+  OBJECT_DIR = CMakeFiles/10773.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 10773
+  TARGET_PDB = 10773.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 1874
+
+
+#############################################
+# Order-only phony target for 1874
+
+build cmake_object_order_depends_target_1874: phony || CMakeFiles/1874.dir
+
+build CMakeFiles/1874.dir/바킹독_알고리즘/스택/1874.cpp.o: CXX_COMPILER__1874_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/스택/1874.cpp || cmake_object_order_depends_target_1874
+  DEP_FILE = CMakeFiles/1874.dir/바킹독_알고리즘/스택/1874.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/1874.dir
+  OBJECT_FILE_DIR = CMakeFiles/1874.dir/바킹독_알고리즘/스택
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 1874
+
+
+#############################################
+# Link the executable 1874
+
+build 1874: CXX_EXECUTABLE_LINKER__1874_Debug CMakeFiles/1874.dir/바킹독_알고리즘/스택/1874.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
+  OBJECT_DIR = CMakeFiles/1874.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 1874
+  TARGET_PDB = 1874.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 2493
+
+
+#############################################
+# Order-only phony target for 2493
+
+build cmake_object_order_depends_target_2493: phony || CMakeFiles/2493.dir
+
+build CMakeFiles/2493.dir/바킹독_알고리즘/스택/2493.cpp.o: CXX_COMPILER__2493_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/스택/2493.cpp || cmake_object_order_depends_target_2493
+  DEP_FILE = CMakeFiles/2493.dir/바킹독_알고리즘/스택/2493.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/2493.dir
+  OBJECT_FILE_DIR = CMakeFiles/2493.dir/바킹독_알고리즘/스택
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 2493
+
+
+#############################################
+# Link the executable 2493
+
+build 2493: CXX_EXECUTABLE_LINKER__2493_Debug CMakeFiles/2493.dir/바킹독_알고리즘/스택/2493.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
+  OBJECT_DIR = CMakeFiles/2493.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 2493
+  TARGET_PDB = 2493.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 6198
+
+
+#############################################
+# Order-only phony target for 6198
+
+build cmake_object_order_depends_target_6198: phony || CMakeFiles/6198.dir
+
+build CMakeFiles/6198.dir/바킹독_알고리즘/스택/6198.cpp.o: CXX_COMPILER__6198_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/스택/6198.cpp || cmake_object_order_depends_target_6198
+  DEP_FILE = CMakeFiles/6198.dir/바킹독_알고리즘/스택/6198.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/6198.dir
+  OBJECT_FILE_DIR = CMakeFiles/6198.dir/바킹독_알고리즘/스택
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 6198
+
+
+#############################################
+# Link the executable 6198
+
+build 6198: CXX_EXECUTABLE_LINKER__6198_Debug CMakeFiles/6198.dir/바킹독_알고리즘/스택/6198.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
+  OBJECT_DIR = CMakeFiles/6198.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 6198
+  TARGET_PDB = 6198.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 17298
+
+
+#############################################
+# Order-only phony target for 17298
+
+build cmake_object_order_depends_target_17298: phony || CMakeFiles/17298.dir
+
+build CMakeFiles/17298.dir/바킹독_알고리즘/스택/17298.cpp.o: CXX_COMPILER__17298_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/스택/17298.cpp || cmake_object_order_depends_target_17298
+  DEP_FILE = CMakeFiles/17298.dir/바킹독_알고리즘/스택/17298.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/17298.dir
+  OBJECT_FILE_DIR = CMakeFiles/17298.dir/바킹독_알고리즘/스택
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 17298
+
+
+#############################################
+# Link the executable 17298
+
+build 17298: CXX_EXECUTABLE_LINKER__17298_Debug CMakeFiles/17298.dir/바킹독_알고리즘/스택/17298.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
+  OBJECT_DIR = CMakeFiles/17298.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 17298
+  TARGET_PDB = 17298.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 3015
+
+
+#############################################
+# Order-only phony target for 3015
+
+build cmake_object_order_depends_target_3015: phony || CMakeFiles/3015.dir
+
+build CMakeFiles/3015.dir/바킹독_알고리즘/스택/3015.cpp.o: CXX_COMPILER__3015_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/스택/3015.cpp || cmake_object_order_depends_target_3015
+  DEP_FILE = CMakeFiles/3015.dir/바킹독_알고리즘/스택/3015.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/3015.dir
+  OBJECT_FILE_DIR = CMakeFiles/3015.dir/바킹독_알고리즘/스택
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 3015
+
+
+#############################################
+# Link the executable 3015
+
+build 3015: CXX_EXECUTABLE_LINKER__3015_Debug CMakeFiles/3015.dir/바킹독_알고리즘/스택/3015.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
+  OBJECT_DIR = CMakeFiles/3015.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 3015
+  TARGET_PDB = 3015.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 6549
+
+
+#############################################
+# Order-only phony target for 6549
+
+build cmake_object_order_depends_target_6549: phony || CMakeFiles/6549.dir
+
+build CMakeFiles/6549.dir/바킹독_알고리즘/스택/6549.cpp.o: CXX_COMPILER__6549_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/스택/6549.cpp || cmake_object_order_depends_target_6549
+  DEP_FILE = CMakeFiles/6549.dir/바킹독_알고리즘/스택/6549.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/6549.dir
+  OBJECT_FILE_DIR = CMakeFiles/6549.dir/바킹독_알고리즘/스택
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 6549
+
+
+#############################################
+# Link the executable 6549
+
+build 6549: CXX_EXECUTABLE_LINKER__6549_Debug CMakeFiles/6549.dir/바킹독_알고리즘/스택/6549.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
+  OBJECT_DIR = CMakeFiles/6549.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 6549
+  TARGET_PDB = 6549.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 1725
+
+
+#############################################
+# Order-only phony target for 1725
+
+build cmake_object_order_depends_target_1725: phony || CMakeFiles/1725.dir
+
+build CMakeFiles/1725.dir/바킹독_알고리즘/스택/1725.cpp.o: CXX_COMPILER__1725_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/스택/1725.cpp || cmake_object_order_depends_target_1725
+  DEP_FILE = CMakeFiles/1725.dir/바킹독_알고리즘/스택/1725.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/1725.dir
+  OBJECT_FILE_DIR = CMakeFiles/1725.dir/바킹독_알고리즘/스택
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 1725
+
+
+#############################################
+# Link the executable 1725
+
+build 1725: CXX_EXECUTABLE_LINKER__1725_Debug CMakeFiles/1725.dir/바킹독_알고리즘/스택/1725.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
+  OBJECT_DIR = CMakeFiles/1725.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 1725
+  TARGET_PDB = 1725.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -1717,7 +2089,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/seoilhyeon/algorithm-study/cpp/cmake-build-debug
 
-build all: phony prob01 prob02 prob03 prob04 1000 1267 2309 2438 2439 2440 2441 2442 2443 2444 2445 2446 2480 2490 2557 2562 2576 2587 2752 2753 9498 10093 10171 10804 10869 10871 15552 1475 1919 2577 3273 3273_2 3273_3 10807 10808 11328 array_test 13300 func2 vector_example linked_list_test list_example 1406 1408_list_impl 5397 1158 1158_1 1158_2 1158_3
+build all: phony prob01 prob02 prob03 prob04 1000 1267 2309 2438 2439 2440 2441 2442 2443 2444 2445 2446 2480 2490 2557 2562 2576 2587 2752 2753 9498 10093 10171 10804 10869 10871 15552 1475 1919 2577 3273 3273_2 3273_3 10807 10808 11328 array_test 13300 func2 vector_example linked_list_test list_example 1406 1408_list_impl 5397 1158 1158_1 1158_2 1158_3 stack_test stack_example 10828 10828_1 10773 1874 2493 6198 17298 3015 6549 1725
 
 # =============================================================================
 # Built-in targets

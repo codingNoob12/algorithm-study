@@ -51,5 +51,17 @@
 /Users/seoilhyeon/algorithm-study/cpp/cmake-build-debug/CMakeFiles/1158_1.dir
 /Users/seoilhyeon/algorithm-study/cpp/cmake-build-debug/CMakeFiles/1158_2.dir
 /Users/seoilhyeon/algorithm-study/cpp/cmake-build-debug/CMakeFiles/1158_3.dir
+/Users/seoilhyeon/algorithm-study/cpp/cmake-build-debug/CMakeFiles/stack_test.dir
+/Users/seoilhyeon/algorithm-study/cpp/cmake-build-debug/CMakeFiles/stack_example.dir
+/Users/seoilhyeon/algorithm-study/cpp/cmake-build-debug/CMakeFiles/10828.dir
+/Users/seoilhyeon/algorithm-study/cpp/cmake-build-debug/CMakeFiles/10828_1.dir
+/Users/seoilhyeon/algorithm-study/cpp/cmake-build-debug/CMakeFiles/10773.dir
+/Users/seoilhyeon/algorithm-study/cpp/cmake-build-debug/CMakeFiles/1874.dir
+/Users/seoilhyeon/algorithm-study/cpp/cmake-build-debug/CMakeFiles/2493.dir
+/Users/seoilhyeon/algorithm-study/cpp/cmake-build-debug/CMakeFiles/6198.dir
+/Users/seoilhyeon/algorithm-study/cpp/cmake-build-debug/CMakeFiles/17298.dir
+/Users/seoilhyeon/algorithm-study/cpp/cmake-build-debug/CMakeFiles/3015.dir
+/Users/seoilhyeon/algorithm-study/cpp/cmake-build-debug/CMakeFiles/6549.dir
+/Users/seoilhyeon/algorithm-study/cpp/cmake-build-debug/CMakeFiles/1725.dir
 /Users/seoilhyeon/algorithm-study/cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/seoilhyeon/algorithm-study/cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

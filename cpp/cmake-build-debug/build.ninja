@@ -2489,6 +2489,192 @@ build 11003: CXX_EXECUTABLE_LINKER__11003_Debug CMakeFiles/11003.dir/바킹독_�
   TARGET_FILE = 11003
   TARGET_PDB = 11003.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 4949
+
+
+#############################################
+# Order-only phony target for 4949
+
+build cmake_object_order_depends_target_4949: phony || CMakeFiles/4949.dir
+
+build CMakeFiles/4949.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)/4949.cpp.o: CXX_COMPILER__4949_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/스택의$ 활용(수식의$ 괄호$ 쌍)/4949.cpp || cmake_object_order_depends_target_4949
+  DEP_FILE = "CMakeFiles/4949.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)/4949.cpp.o.d"
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/4949.dir
+  OBJECT_FILE_DIR = "CMakeFiles/4949.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)"
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 4949
+
+
+#############################################
+# Link the executable 4949
+
+build 4949: CXX_EXECUTABLE_LINKER__4949_Debug CMakeFiles/4949.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)/4949.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
+  OBJECT_DIR = CMakeFiles/4949.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 4949
+  TARGET_PDB = 4949.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 3986
+
+
+#############################################
+# Order-only phony target for 3986
+
+build cmake_object_order_depends_target_3986: phony || CMakeFiles/3986.dir
+
+build CMakeFiles/3986.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)/3986.cpp.o: CXX_COMPILER__3986_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/스택의$ 활용(수식의$ 괄호$ 쌍)/3986.cpp || cmake_object_order_depends_target_3986
+  DEP_FILE = "CMakeFiles/3986.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)/3986.cpp.o.d"
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/3986.dir
+  OBJECT_FILE_DIR = "CMakeFiles/3986.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)"
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 3986
+
+
+#############################################
+# Link the executable 3986
+
+build 3986: CXX_EXECUTABLE_LINKER__3986_Debug CMakeFiles/3986.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)/3986.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
+  OBJECT_DIR = CMakeFiles/3986.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 3986
+  TARGET_PDB = 3986.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 9012
+
+
+#############################################
+# Order-only phony target for 9012
+
+build cmake_object_order_depends_target_9012: phony || CMakeFiles/9012.dir
+
+build CMakeFiles/9012.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)/9012.cpp.o: CXX_COMPILER__9012_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/스택의$ 활용(수식의$ 괄호$ 쌍)/9012.cpp || cmake_object_order_depends_target_9012
+  DEP_FILE = "CMakeFiles/9012.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)/9012.cpp.o.d"
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/9012.dir
+  OBJECT_FILE_DIR = "CMakeFiles/9012.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)"
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 9012
+
+
+#############################################
+# Link the executable 9012
+
+build 9012: CXX_EXECUTABLE_LINKER__9012_Debug CMakeFiles/9012.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)/9012.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
+  OBJECT_DIR = CMakeFiles/9012.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 9012
+  TARGET_PDB = 9012.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 10799
+
+
+#############################################
+# Order-only phony target for 10799
+
+build cmake_object_order_depends_target_10799: phony || CMakeFiles/10799.dir
+
+build CMakeFiles/10799.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)/10799.cpp.o: CXX_COMPILER__10799_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/스택의$ 활용(수식의$ 괄호$ 쌍)/10799.cpp || cmake_object_order_depends_target_10799
+  DEP_FILE = "CMakeFiles/10799.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)/10799.cpp.o.d"
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/10799.dir
+  OBJECT_FILE_DIR = "CMakeFiles/10799.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)"
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 10799
+
+
+#############################################
+# Link the executable 10799
+
+build 10799: CXX_EXECUTABLE_LINKER__10799_Debug CMakeFiles/10799.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)/10799.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
+  OBJECT_DIR = CMakeFiles/10799.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 10799
+  TARGET_PDB = 10799.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 2504
+
+
+#############################################
+# Order-only phony target for 2504
+
+build cmake_object_order_depends_target_2504: phony || CMakeFiles/2504.dir
+
+build CMakeFiles/2504.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)/2504.cpp.o: CXX_COMPILER__2504_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/스택의$ 활용(수식의$ 괄호$ 쌍)/2504.cpp || cmake_object_order_depends_target_2504
+  DEP_FILE = "CMakeFiles/2504.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)/2504.cpp.o.d"
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/2504.dir
+  OBJECT_FILE_DIR = "CMakeFiles/2504.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)"
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 2504
+
+
+#############################################
+# Link the executable 2504
+
+build 2504: CXX_EXECUTABLE_LINKER__2504_Debug CMakeFiles/2504.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)/2504.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
+  OBJECT_DIR = CMakeFiles/2504.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 2504
+  TARGET_PDB = 2504.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 2504_1
+
+
+#############################################
+# Order-only phony target for 2504_1
+
+build cmake_object_order_depends_target_2504_1: phony || CMakeFiles/2504_1.dir
+
+build CMakeFiles/2504_1.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)/2504_1.cpp.o: CXX_COMPILER__2504_1_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/스택의$ 활용(수식의$ 괄호$ 쌍)/2504_1.cpp || cmake_object_order_depends_target_2504_1
+  DEP_FILE = "CMakeFiles/2504_1.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)/2504_1.cpp.o.d"
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/2504_1.dir
+  OBJECT_FILE_DIR = "CMakeFiles/2504_1.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)"
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 2504_1
+
+
+#############################################
+# Link the executable 2504_1
+
+build 2504_1: CXX_EXECUTABLE_LINKER__2504_1_Debug CMakeFiles/2504_1.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)/2504_1.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
+  OBJECT_DIR = CMakeFiles/2504_1.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 2504_1
+  TARGET_PDB = 2504_1.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -2523,7 +2709,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/seoilhyeon/algorithm-study/cpp/cmake-build-debug
 
-build all: phony prob01 prob02 prob03 prob04 1000 1267 2309 2438 2439 2440 2441 2442 2443 2444 2445 2446 2480 2490 2557 2562 2576 2587 2752 2753 9498 10093 10171 10804 10869 10871 15552 1475 1919 2577 3273 3273_2 3273_3 10807 10808 11328 array_test 13300 func2 vector_example linked_list_test list_example 1406 1408_list_impl 5397 1158 1158_1 1158_2 1158_3 stack_test stack_example 10828 10828_1 10773 1874 2493 6198 17298 3015 6549 1725 queue_test 10845 10845_1 18258 18258_1 2164 queue_example deque_test deque_example 10866 10866_1 1021 5430 11003
+build all: phony prob01 prob02 prob03 prob04 1000 1267 2309 2438 2439 2440 2441 2442 2443 2444 2445 2446 2480 2490 2557 2562 2576 2587 2752 2753 9498 10093 10171 10804 10869 10871 15552 1475 1919 2577 3273 3273_2 3273_3 10807 10808 11328 array_test 13300 func2 vector_example linked_list_test list_example 1406 1408_list_impl 5397 1158 1158_1 1158_2 1158_3 stack_test stack_example 10828 10828_1 10773 1874 2493 6198 17298 3015 6549 1725 queue_test 10845 10845_1 18258 18258_1 2164 queue_example deque_test deque_example 10866 10866_1 1021 5430 11003 4949 3986 9012 10799 2504 2504_1
 
 # =============================================================================
 # Built-in targets

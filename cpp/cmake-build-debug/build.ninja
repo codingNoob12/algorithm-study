@@ -2219,11 +2219,11 @@ build 18258_1: CXX_EXECUTABLE_LINKER__18258_1_Debug CMakeFiles/18258_1.dir/바�
 
 build cmake_object_order_depends_target_2164: phony || CMakeFiles/2164.dir
 
-build CMakeFiles/2164.dir/바킹독_알고리즘/큐/2164.cpp.o: CXX_COMPILER__2164_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/큐/2164.cpp || cmake_object_order_depends_target_2164
-  DEP_FILE = CMakeFiles/2164.dir/바킹독_알고리즘/큐/2164.cpp.o.d
+build CMakeFiles/2164.dir/백준/2023-11-05/2164.cpp.o: CXX_COMPILER__2164_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-05/2164.cpp || cmake_object_order_depends_target_2164
+  DEP_FILE = CMakeFiles/2164.dir/백준/2023-11-05/2164.cpp.o.d
   FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/2164.dir
-  OBJECT_FILE_DIR = CMakeFiles/2164.dir/바킹독_알고리즘/큐
+  OBJECT_FILE_DIR = CMakeFiles/2164.dir/백준/2023-11-05
 
 
 # =============================================================================
@@ -2233,7 +2233,7 @@ build CMakeFiles/2164.dir/바킹독_알고리즘/큐/2164.cpp.o: CXX_COMPILER__2
 #############################################
 # Link the executable 2164
 
-build 2164: CXX_EXECUTABLE_LINKER__2164_Debug CMakeFiles/2164.dir/바킹독_알고리즘/큐/2164.cpp.o
+build 2164: CXX_EXECUTABLE_LINKER__2164_Debug CMakeFiles/2164.dir/백준/2023-11-05/2164.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
   OBJECT_DIR = CMakeFiles/2164.dir
   POST_BUILD = :
@@ -2560,11 +2560,11 @@ build 3986: CXX_EXECUTABLE_LINKER__3986_Debug CMakeFiles/3986.dir/바킹독_알�
 
 build cmake_object_order_depends_target_9012: phony || CMakeFiles/9012.dir
 
-build CMakeFiles/9012.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)/9012.cpp.o: CXX_COMPILER__9012_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/스택의$ 활용(수식의$ 괄호$ 쌍)/9012.cpp || cmake_object_order_depends_target_9012
-  DEP_FILE = "CMakeFiles/9012.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)/9012.cpp.o.d"
+build CMakeFiles/9012.dir/백준/2023-11-05/9375.cpp.o: CXX_COMPILER__9012_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-05/9375.cpp || cmake_object_order_depends_target_9012
+  DEP_FILE = CMakeFiles/9012.dir/백준/2023-11-05/9375.cpp.o.d
   FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/9012.dir
-  OBJECT_FILE_DIR = "CMakeFiles/9012.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)"
+  OBJECT_FILE_DIR = CMakeFiles/9012.dir/백준/2023-11-05
 
 
 # =============================================================================
@@ -2574,7 +2574,7 @@ build CMakeFiles/9012.dir/바킹독_알고리즘/스택의_활용(수식의_괄�
 #############################################
 # Link the executable 9012
 
-build 9012: CXX_EXECUTABLE_LINKER__9012_Debug CMakeFiles/9012.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)/9012.cpp.o
+build 9012: CXX_EXECUTABLE_LINKER__9012_Debug CMakeFiles/9012.dir/백준/2023-11-05/9375.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
   OBJECT_DIR = CMakeFiles/9012.dir
   POST_BUILD = :
@@ -3016,6 +3016,471 @@ build 1920_1: CXX_EXECUTABLE_LINKER__1920_1_Debug CMakeFiles/1920_1.dir/백준/2
   TARGET_FILE = 1920_1
   TARGET_PDB = 1920_1.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 1927
+
+
+#############################################
+# Order-only phony target for 1927
+
+build cmake_object_order_depends_target_1927: phony || CMakeFiles/1927.dir
+
+build CMakeFiles/1927.dir/백준/2023-11-05/1927.cpp.o: CXX_COMPILER__1927_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-05/1927.cpp || cmake_object_order_depends_target_1927
+  DEP_FILE = CMakeFiles/1927.dir/백준/2023-11-05/1927.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/1927.dir
+  OBJECT_FILE_DIR = CMakeFiles/1927.dir/백준/2023-11-05
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 1927
+
+
+#############################################
+# Link the executable 1927
+
+build 1927: CXX_EXECUTABLE_LINKER__1927_Debug CMakeFiles/1927.dir/백준/2023-11-05/1927.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
+  OBJECT_DIR = CMakeFiles/1927.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 1927
+  TARGET_PDB = 1927.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 2042
+
+
+#############################################
+# Order-only phony target for 2042
+
+build cmake_object_order_depends_target_2042: phony || CMakeFiles/2042.dir
+
+build CMakeFiles/2042.dir/백준/2023-11-05/2042.cpp.o: CXX_COMPILER__2042_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-05/2042.cpp || cmake_object_order_depends_target_2042
+  DEP_FILE = CMakeFiles/2042.dir/백준/2023-11-05/2042.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/2042.dir
+  OBJECT_FILE_DIR = CMakeFiles/2042.dir/백준/2023-11-05
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 2042
+
+
+#############################################
+# Link the executable 2042
+
+build 2042: CXX_EXECUTABLE_LINKER__2042_Debug CMakeFiles/2042.dir/백준/2023-11-05/2042.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
+  OBJECT_DIR = CMakeFiles/2042.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 2042
+  TARGET_PDB = 2042.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 2161
+
+
+#############################################
+# Order-only phony target for 2161
+
+build cmake_object_order_depends_target_2161: phony || CMakeFiles/2161.dir
+
+build CMakeFiles/2161.dir/백준/2023-11-05/2161.cpp.o: CXX_COMPILER__2161_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-05/2161.cpp || cmake_object_order_depends_target_2161
+  DEP_FILE = CMakeFiles/2161.dir/백준/2023-11-05/2161.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/2161.dir
+  OBJECT_FILE_DIR = CMakeFiles/2161.dir/백준/2023-11-05
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 2161
+
+
+#############################################
+# Link the executable 2161
+
+build 2161: CXX_EXECUTABLE_LINKER__2161_Debug CMakeFiles/2161.dir/백준/2023-11-05/2161.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
+  OBJECT_DIR = CMakeFiles/2161.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 2161
+  TARGET_PDB = 2161.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 7785
+
+
+#############################################
+# Order-only phony target for 7785
+
+build cmake_object_order_depends_target_7785: phony || CMakeFiles/7785.dir
+
+build CMakeFiles/7785.dir/백준/2023-11-05/7785.cpp.o: CXX_COMPILER__7785_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-05/7785.cpp || cmake_object_order_depends_target_7785
+  DEP_FILE = CMakeFiles/7785.dir/백준/2023-11-05/7785.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/7785.dir
+  OBJECT_FILE_DIR = CMakeFiles/7785.dir/백준/2023-11-05
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 7785
+
+
+#############################################
+# Link the executable 7785
+
+build 7785: CXX_EXECUTABLE_LINKER__7785_Debug CMakeFiles/7785.dir/백준/2023-11-05/7785.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
+  OBJECT_DIR = CMakeFiles/7785.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 7785
+  TARGET_PDB = 7785.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 10815
+
+
+#############################################
+# Order-only phony target for 10815
+
+build cmake_object_order_depends_target_10815: phony || CMakeFiles/10815.dir
+
+build CMakeFiles/10815.dir/백준/2023-11-05/10815.cpp.o: CXX_COMPILER__10815_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-05/10815.cpp || cmake_object_order_depends_target_10815
+  DEP_FILE = CMakeFiles/10815.dir/백준/2023-11-05/10815.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/10815.dir
+  OBJECT_FILE_DIR = CMakeFiles/10815.dir/백준/2023-11-05
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 10815
+
+
+#############################################
+# Link the executable 10815
+
+build 10815: CXX_EXECUTABLE_LINKER__10815_Debug CMakeFiles/10815.dir/백준/2023-11-05/10815.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
+  OBJECT_DIR = CMakeFiles/10815.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 10815
+  TARGET_PDB = 10815.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 10816
+
+
+#############################################
+# Order-only phony target for 10816
+
+build cmake_object_order_depends_target_10816: phony || CMakeFiles/10816.dir
+
+build CMakeFiles/10816.dir/백준/2023-11-05/10816.cpp.o: CXX_COMPILER__10816_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-05/10816.cpp || cmake_object_order_depends_target_10816
+  DEP_FILE = CMakeFiles/10816.dir/백준/2023-11-05/10816.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/10816.dir
+  OBJECT_FILE_DIR = CMakeFiles/10816.dir/백준/2023-11-05
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 10816
+
+
+#############################################
+# Link the executable 10816
+
+build 10816: CXX_EXECUTABLE_LINKER__10816_Debug CMakeFiles/10816.dir/백준/2023-11-05/10816.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
+  OBJECT_DIR = CMakeFiles/10816.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 10816
+  TARGET_PDB = 10816.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 10815_1
+
+
+#############################################
+# Order-only phony target for 10815_1
+
+build cmake_object_order_depends_target_10815_1: phony || CMakeFiles/10815_1.dir
+
+build CMakeFiles/10815_1.dir/백준/2023-11-05/10815_1.cpp.o: CXX_COMPILER__10815_1_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-05/10815_1.cpp || cmake_object_order_depends_target_10815_1
+  DEP_FILE = CMakeFiles/10815_1.dir/백준/2023-11-05/10815_1.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/10815_1.dir
+  OBJECT_FILE_DIR = CMakeFiles/10815_1.dir/백준/2023-11-05
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 10815_1
+
+
+#############################################
+# Link the executable 10815_1
+
+build 10815_1: CXX_EXECUTABLE_LINKER__10815_1_Debug CMakeFiles/10815_1.dir/백준/2023-11-05/10815_1.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
+  OBJECT_DIR = CMakeFiles/10815_1.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 10815_1
+  TARGET_PDB = 10815_1.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 10816_1
+
+
+#############################################
+# Order-only phony target for 10816_1
+
+build cmake_object_order_depends_target_10816_1: phony || CMakeFiles/10816_1.dir
+
+build CMakeFiles/10816_1.dir/백준/2023-11-05/10816_1.cpp.o: CXX_COMPILER__10816_1_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-05/10816_1.cpp || cmake_object_order_depends_target_10816_1
+  DEP_FILE = CMakeFiles/10816_1.dir/백준/2023-11-05/10816_1.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/10816_1.dir
+  OBJECT_FILE_DIR = CMakeFiles/10816_1.dir/백준/2023-11-05
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 10816_1
+
+
+#############################################
+# Link the executable 10816_1
+
+build 10816_1: CXX_EXECUTABLE_LINKER__10816_1_Debug CMakeFiles/10816_1.dir/백준/2023-11-05/10816_1.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
+  OBJECT_DIR = CMakeFiles/10816_1.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 10816_1
+  TARGET_PDB = 10816_1.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 11279
+
+
+#############################################
+# Order-only phony target for 11279
+
+build cmake_object_order_depends_target_11279: phony || CMakeFiles/11279.dir
+
+build CMakeFiles/11279.dir/백준/2023-11-05/11279.cpp.o: CXX_COMPILER__11279_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-05/11279.cpp || cmake_object_order_depends_target_11279
+  DEP_FILE = CMakeFiles/11279.dir/백준/2023-11-05/11279.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/11279.dir
+  OBJECT_FILE_DIR = CMakeFiles/11279.dir/백준/2023-11-05
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 11279
+
+
+#############################################
+# Link the executable 11279
+
+build 11279: CXX_EXECUTABLE_LINKER__11279_Debug CMakeFiles/11279.dir/백준/2023-11-05/11279.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
+  OBJECT_DIR = CMakeFiles/11279.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 11279
+  TARGET_PDB = 11279.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 11286
+
+
+#############################################
+# Order-only phony target for 11286
+
+build cmake_object_order_depends_target_11286: phony || CMakeFiles/11286.dir
+
+build CMakeFiles/11286.dir/백준/2023-11-05/11286.cpp.o: CXX_COMPILER__11286_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-05/11286.cpp || cmake_object_order_depends_target_11286
+  DEP_FILE = CMakeFiles/11286.dir/백준/2023-11-05/11286.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/11286.dir
+  OBJECT_FILE_DIR = CMakeFiles/11286.dir/백준/2023-11-05
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 11286
+
+
+#############################################
+# Link the executable 11286
+
+build 11286: CXX_EXECUTABLE_LINKER__11286_Debug CMakeFiles/11286.dir/백준/2023-11-05/11286.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
+  OBJECT_DIR = CMakeFiles/11286.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 11286
+  TARGET_PDB = 11286.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 11478
+
+
+#############################################
+# Order-only phony target for 11478
+
+build cmake_object_order_depends_target_11478: phony || CMakeFiles/11478.dir
+
+build CMakeFiles/11478.dir/백준/2023-11-05/11478.cpp.o: CXX_COMPILER__11478_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-05/11478.cpp || cmake_object_order_depends_target_11478
+  DEP_FILE = CMakeFiles/11478.dir/백준/2023-11-05/11478.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/11478.dir
+  OBJECT_FILE_DIR = CMakeFiles/11478.dir/백준/2023-11-05
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 11478
+
+
+#############################################
+# Link the executable 11478
+
+build 11478: CXX_EXECUTABLE_LINKER__11478_Debug CMakeFiles/11478.dir/백준/2023-11-05/11478.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
+  OBJECT_DIR = CMakeFiles/11478.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 11478
+  TARGET_PDB = 11478.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 11866
+
+
+#############################################
+# Order-only phony target for 11866
+
+build cmake_object_order_depends_target_11866: phony || CMakeFiles/11866.dir
+
+build CMakeFiles/11866.dir/백준/2023-11-05/11866.cpp.o: CXX_COMPILER__11866_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-05/11866.cpp || cmake_object_order_depends_target_11866
+  DEP_FILE = CMakeFiles/11866.dir/백준/2023-11-05/11866.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/11866.dir
+  OBJECT_FILE_DIR = CMakeFiles/11866.dir/백준/2023-11-05
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 11866
+
+
+#############################################
+# Link the executable 11866
+
+build 11866: CXX_EXECUTABLE_LINKER__11866_Debug CMakeFiles/11866.dir/백준/2023-11-05/11866.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
+  OBJECT_DIR = CMakeFiles/11866.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 11866
+  TARGET_PDB = 11866.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 14425
+
+
+#############################################
+# Order-only phony target for 14425
+
+build cmake_object_order_depends_target_14425: phony || CMakeFiles/14425.dir
+
+build CMakeFiles/14425.dir/백준/2023-11-05/14425.cpp.o: CXX_COMPILER__14425_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-05/14425.cpp || cmake_object_order_depends_target_14425
+  DEP_FILE = CMakeFiles/14425.dir/백준/2023-11-05/14425.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/14425.dir
+  OBJECT_FILE_DIR = CMakeFiles/14425.dir/백준/2023-11-05
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 14425
+
+
+#############################################
+# Link the executable 14425
+
+build 14425: CXX_EXECUTABLE_LINKER__14425_Debug CMakeFiles/14425.dir/백준/2023-11-05/14425.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
+  OBJECT_DIR = CMakeFiles/14425.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 14425
+  TARGET_PDB = 14425.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 17219
+
+
+#############################################
+# Order-only phony target for 17219
+
+build cmake_object_order_depends_target_17219: phony || CMakeFiles/17219.dir
+
+build CMakeFiles/17219.dir/백준/2023-11-05/17219.cpp.o: CXX_COMPILER__17219_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-05/17219.cpp || cmake_object_order_depends_target_17219
+  DEP_FILE = CMakeFiles/17219.dir/백준/2023-11-05/17219.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/17219.dir
+  OBJECT_FILE_DIR = CMakeFiles/17219.dir/백준/2023-11-05
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 17219
+
+
+#############################################
+# Link the executable 17219
+
+build 17219: CXX_EXECUTABLE_LINKER__17219_Debug CMakeFiles/17219.dir/백준/2023-11-05/17219.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
+  OBJECT_DIR = CMakeFiles/17219.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 17219
+  TARGET_PDB = 17219.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 17413
+
+
+#############################################
+# Order-only phony target for 17413
+
+build cmake_object_order_depends_target_17413: phony || CMakeFiles/17413.dir
+
+build CMakeFiles/17413.dir/백준/2023-11-05/17413.cpp.o: CXX_COMPILER__17413_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-05/17413.cpp || cmake_object_order_depends_target_17413
+  DEP_FILE = CMakeFiles/17413.dir/백준/2023-11-05/17413.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/17413.dir
+  OBJECT_FILE_DIR = CMakeFiles/17413.dir/백준/2023-11-05
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 17413
+
+
+#############################################
+# Link the executable 17413
+
+build 17413: CXX_EXECUTABLE_LINKER__17413_Debug CMakeFiles/17413.dir/백준/2023-11-05/17413.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
+  OBJECT_DIR = CMakeFiles/17413.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 17413
+  TARGET_PDB = 17413.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -3050,7 +3515,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/seoilhyeon/algorithm-study/cpp/cmake-build-debug
 
-build all: phony prob01 prob02 prob03 prob04 1000 1267 2309 2438 2439 2440 2441 2442 2443 2444 2445 2446 2480 2490 2557 2562 2576 2587 2752 2753 9498 10093 10171 10804 10869 10871 15552 1475 1919 2577 3273 3273_2 3273_3 10807 10808 11328 array_test 13300 func2 vector_example linked_list_test list_example 1406 1408_list_impl 5397 1158 1158_1 1158_2 1158_3 stack_test stack_example 10828 10828_1 10773 1874 2493 6198 17298 3015 6549 1725 queue_test 10845 10845_1 18258 18258_1 2164 queue_example deque_test deque_example 10866 10866_1 1021 5430 11003 4949 3986 9012 10799 2504 2504_1 1269 1302 1417 1620 1655 1715 1717 1764 1918 1920 1920_1
+build all: phony prob01 prob02 prob03 prob04 1000 1267 2309 2438 2439 2440 2441 2442 2443 2444 2445 2446 2480 2490 2557 2562 2576 2587 2752 2753 9498 10093 10171 10804 10869 10871 15552 1475 1919 2577 3273 3273_2 3273_3 10807 10808 11328 array_test 13300 func2 vector_example linked_list_test list_example 1406 1408_list_impl 5397 1158 1158_1 1158_2 1158_3 stack_test stack_example 10828 10828_1 10773 1874 2493 6198 17298 3015 6549 1725 queue_test 10845 10845_1 18258 18258_1 2164 queue_example deque_test deque_example 10866 10866_1 1021 5430 11003 4949 3986 9012 10799 2504 2504_1 1269 1302 1417 1620 1655 1715 1717 1764 1918 1920 1920_1 1927 2042 2161 7785 10815 10816 10815_1 10816_1 11279 11286 11478 11866 14425 17219 17413
 
 # =============================================================================
 # Built-in targets

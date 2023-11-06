@@ -3481,6 +3481,130 @@ build 17413: CXX_EXECUTABLE_LINKER__17413_Debug CMakeFiles/17413.dir/백준/2023
   TARGET_FILE = 17413
   TARGET_PDB = 17413.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 1074
+
+
+#############################################
+# Order-only phony target for 1074
+
+build cmake_object_order_depends_target_1074: phony || CMakeFiles/1074.dir
+
+build CMakeFiles/1074.dir/백준/2023-11-06/1074.cpp.o: CXX_COMPILER__1074_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-06/1074.cpp || cmake_object_order_depends_target_1074
+  DEP_FILE = CMakeFiles/1074.dir/백준/2023-11-06/1074.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/1074.dir
+  OBJECT_FILE_DIR = CMakeFiles/1074.dir/백준/2023-11-06
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 1074
+
+
+#############################################
+# Link the executable 1074
+
+build 1074: CXX_EXECUTABLE_LINKER__1074_Debug CMakeFiles/1074.dir/백준/2023-11-06/1074.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
+  OBJECT_DIR = CMakeFiles/1074.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 1074
+  TARGET_PDB = 1074.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target swea1238
+
+
+#############################################
+# Order-only phony target for swea1238
+
+build cmake_object_order_depends_target_swea1238: phony || CMakeFiles/swea1238.dir
+
+build CMakeFiles/swea1238.dir/백준/2023-11-06/swea1238.cpp.o: CXX_COMPILER__swea1238_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-06/swea1238.cpp || cmake_object_order_depends_target_swea1238
+  DEP_FILE = CMakeFiles/swea1238.dir/백준/2023-11-06/swea1238.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/swea1238.dir
+  OBJECT_FILE_DIR = CMakeFiles/swea1238.dir/백준/2023-11-06
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target swea1238
+
+
+#############################################
+# Link the executable swea1238
+
+build swea1238: CXX_EXECUTABLE_LINKER__swea1238_Debug CMakeFiles/swea1238.dir/백준/2023-11-06/swea1238.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
+  OBJECT_DIR = CMakeFiles/swea1238.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = swea1238
+  TARGET_PDB = swea1238.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 1931
+
+
+#############################################
+# Order-only phony target for 1931
+
+build cmake_object_order_depends_target_1931: phony || CMakeFiles/1931.dir
+
+build CMakeFiles/1931.dir/백준/2023-11-06/1931.cpp.o: CXX_COMPILER__1931_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-06/1931.cpp || cmake_object_order_depends_target_1931
+  DEP_FILE = CMakeFiles/1931.dir/백준/2023-11-06/1931.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/1931.dir
+  OBJECT_FILE_DIR = CMakeFiles/1931.dir/백준/2023-11-06
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 1931
+
+
+#############################################
+# Link the executable 1931
+
+build 1931: CXX_EXECUTABLE_LINKER__1931_Debug CMakeFiles/1931.dir/백준/2023-11-06/1931.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
+  OBJECT_DIR = CMakeFiles/1931.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 1931
+  TARGET_PDB = 1931.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 2630
+
+
+#############################################
+# Order-only phony target for 2630
+
+build cmake_object_order_depends_target_2630: phony || CMakeFiles/2630.dir
+
+build CMakeFiles/2630.dir/백준/2023-11-06/2630.cpp.o: CXX_COMPILER__2630_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-06/2630.cpp || cmake_object_order_depends_target_2630
+  DEP_FILE = CMakeFiles/2630.dir/백준/2023-11-06/2630.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/2630.dir
+  OBJECT_FILE_DIR = CMakeFiles/2630.dir/백준/2023-11-06
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 2630
+
+
+#############################################
+# Link the executable 2630
+
+build 2630: CXX_EXECUTABLE_LINKER__2630_Debug CMakeFiles/2630.dir/백준/2023-11-06/2630.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
+  OBJECT_DIR = CMakeFiles/2630.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 2630
+  TARGET_PDB = 2630.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -3515,7 +3639,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/seoilhyeon/algorithm-study/cpp/cmake-build-debug
 
-build all: phony prob01 prob02 prob03 prob04 1000 1267 2309 2438 2439 2440 2441 2442 2443 2444 2445 2446 2480 2490 2557 2562 2576 2587 2752 2753 9498 10093 10171 10804 10869 10871 15552 1475 1919 2577 3273 3273_2 3273_3 10807 10808 11328 array_test 13300 func2 vector_example linked_list_test list_example 1406 1408_list_impl 5397 1158 1158_1 1158_2 1158_3 stack_test stack_example 10828 10828_1 10773 1874 2493 6198 17298 3015 6549 1725 queue_test 10845 10845_1 18258 18258_1 2164 queue_example deque_test deque_example 10866 10866_1 1021 5430 11003 4949 3986 9012 10799 2504 2504_1 1269 1302 1417 1620 1655 1715 1717 1764 1918 1920 1920_1 1927 2042 2161 7785 10815 10816 10815_1 10816_1 11279 11286 11478 11866 14425 17219 17413
+build all: phony prob01 prob02 prob03 prob04 1000 1267 2309 2438 2439 2440 2441 2442 2443 2444 2445 2446 2480 2490 2557 2562 2576 2587 2752 2753 9498 10093 10171 10804 10869 10871 15552 1475 1919 2577 3273 3273_2 3273_3 10807 10808 11328 array_test 13300 func2 vector_example linked_list_test list_example 1406 1408_list_impl 5397 1158 1158_1 1158_2 1158_3 stack_test stack_example 10828 10828_1 10773 1874 2493 6198 17298 3015 6549 1725 queue_test 10845 10845_1 18258 18258_1 2164 queue_example deque_test deque_example 10866 10866_1 1021 5430 11003 4949 3986 9012 10799 2504 2504_1 1269 1302 1417 1620 1655 1715 1717 1764 1918 1920 1920_1 1927 2042 2161 7785 10815 10816 10815_1 10816_1 11279 11286 11478 11866 14425 17219 17413 1074 swea1238 1931 2630
 
 # =============================================================================
 # Built-in targets

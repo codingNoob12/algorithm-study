@@ -127,3 +127,6 @@ add_executable(11726 백준/2023-11-21/11726.cpp)
 
 add_executable(11726_1 백준/2023-11-21/11726_1.cpp)
 add_executable(14940 백준/2023-11-21/14940.cpp)
+add_executable(1107 백준/2023-11-22/1107.cpp)
+add_executable(1389 백준/2023-11-22/1389.cpp)
+add_executable(2579 백준/2023-11-22/2579.cpp)

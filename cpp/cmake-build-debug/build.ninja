@@ -51,7 +51,7 @@ build cmake_object_order_depends_target_prob01: phony || CMakeFiles/prob01.dir
 
 build CMakeFiles/prob01.dir/바킹독_알고리즘/기초코드작성요령I/prob01.cpp.o: CXX_COMPILER__prob01_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/기초코드작성요령I/prob01.cpp || cmake_object_order_depends_target_prob01
   DEP_FILE = CMakeFiles/prob01.dir/바킹독_알고리즘/기초코드작성요령I/prob01.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/prob01.dir
   OBJECT_FILE_DIR = CMakeFiles/prob01.dir/바킹독_알고리즘/기초코드작성요령I
 
@@ -64,7 +64,7 @@ build CMakeFiles/prob01.dir/바킹독_알고리즘/기초코드작성요령I/pro
 # Link the executable prob01
 
 build prob01: CXX_EXECUTABLE_LINKER__prob01_Debug CMakeFiles/prob01.dir/바킹독_알고리즘/기초코드작성요령I/prob01.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/prob01.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -82,7 +82,7 @@ build cmake_object_order_depends_target_prob02: phony || CMakeFiles/prob02.dir
 
 build CMakeFiles/prob02.dir/바킹독_알고리즘/기초코드작성요령I/prob02.cpp.o: CXX_COMPILER__prob02_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/기초코드작성요령I/prob02.cpp || cmake_object_order_depends_target_prob02
   DEP_FILE = CMakeFiles/prob02.dir/바킹독_알고리즘/기초코드작성요령I/prob02.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/prob02.dir
   OBJECT_FILE_DIR = CMakeFiles/prob02.dir/바킹독_알고리즘/기초코드작성요령I
 
@@ -95,7 +95,7 @@ build CMakeFiles/prob02.dir/바킹독_알고리즘/기초코드작성요령I/pro
 # Link the executable prob02
 
 build prob02: CXX_EXECUTABLE_LINKER__prob02_Debug CMakeFiles/prob02.dir/바킹독_알고리즘/기초코드작성요령I/prob02.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/prob02.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -113,7 +113,7 @@ build cmake_object_order_depends_target_prob03: phony || CMakeFiles/prob03.dir
 
 build CMakeFiles/prob03.dir/바킹독_알고리즘/기초코드작성요령I/prob03.cpp.o: CXX_COMPILER__prob03_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/기초코드작성요령I/prob03.cpp || cmake_object_order_depends_target_prob03
   DEP_FILE = CMakeFiles/prob03.dir/바킹독_알고리즘/기초코드작성요령I/prob03.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/prob03.dir
   OBJECT_FILE_DIR = CMakeFiles/prob03.dir/바킹독_알고리즘/기초코드작성요령I
 
@@ -126,7 +126,7 @@ build CMakeFiles/prob03.dir/바킹독_알고리즘/기초코드작성요령I/pro
 # Link the executable prob03
 
 build prob03: CXX_EXECUTABLE_LINKER__prob03_Debug CMakeFiles/prob03.dir/바킹독_알고리즘/기초코드작성요령I/prob03.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/prob03.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -144,7 +144,7 @@ build cmake_object_order_depends_target_prob04: phony || CMakeFiles/prob04.dir
 
 build CMakeFiles/prob04.dir/바킹독_알고리즘/기초코드작성요령I/prob04.cpp.o: CXX_COMPILER__prob04_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/기초코드작성요령I/prob04.cpp || cmake_object_order_depends_target_prob04
   DEP_FILE = CMakeFiles/prob04.dir/바킹독_알고리즘/기초코드작성요령I/prob04.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/prob04.dir
   OBJECT_FILE_DIR = CMakeFiles/prob04.dir/바킹독_알고리즘/기초코드작성요령I
 
@@ -157,7 +157,7 @@ build CMakeFiles/prob04.dir/바킹독_알고리즘/기초코드작성요령I/pro
 # Link the executable prob04
 
 build prob04: CXX_EXECUTABLE_LINKER__prob04_Debug CMakeFiles/prob04.dir/바킹독_알고리즘/기초코드작성요령I/prob04.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/prob04.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -175,7 +175,7 @@ build cmake_object_order_depends_target_1000: phony || CMakeFiles/1000.dir
 
 build CMakeFiles/1000.dir/바킹독_알고리즘/기초코드작성요령II/1000.cpp.o: CXX_COMPILER__1000_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/기초코드작성요령II/1000.cpp || cmake_object_order_depends_target_1000
   DEP_FILE = CMakeFiles/1000.dir/바킹독_알고리즘/기초코드작성요령II/1000.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/1000.dir
   OBJECT_FILE_DIR = CMakeFiles/1000.dir/바킹독_알고리즘/기초코드작성요령II
 
@@ -188,7 +188,7 @@ build CMakeFiles/1000.dir/바킹독_알고리즘/기초코드작성요령II/1000
 # Link the executable 1000
 
 build 1000: CXX_EXECUTABLE_LINKER__1000_Debug CMakeFiles/1000.dir/바킹독_알고리즘/기초코드작성요령II/1000.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/1000.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -206,7 +206,7 @@ build cmake_object_order_depends_target_1267: phony || CMakeFiles/1267.dir
 
 build CMakeFiles/1267.dir/바킹독_알고리즘/기초코드작성요령II/1267.cpp.o: CXX_COMPILER__1267_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/기초코드작성요령II/1267.cpp || cmake_object_order_depends_target_1267
   DEP_FILE = CMakeFiles/1267.dir/바킹독_알고리즘/기초코드작성요령II/1267.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/1267.dir
   OBJECT_FILE_DIR = CMakeFiles/1267.dir/바킹독_알고리즘/기초코드작성요령II
 
@@ -219,7 +219,7 @@ build CMakeFiles/1267.dir/바킹독_알고리즘/기초코드작성요령II/1267
 # Link the executable 1267
 
 build 1267: CXX_EXECUTABLE_LINKER__1267_Debug CMakeFiles/1267.dir/바킹독_알고리즘/기초코드작성요령II/1267.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/1267.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -237,7 +237,7 @@ build cmake_object_order_depends_target_2309: phony || CMakeFiles/2309.dir
 
 build CMakeFiles/2309.dir/바킹독_알고리즘/기초코드작성요령II/2309.cpp.o: CXX_COMPILER__2309_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/기초코드작성요령II/2309.cpp || cmake_object_order_depends_target_2309
   DEP_FILE = CMakeFiles/2309.dir/바킹독_알고리즘/기초코드작성요령II/2309.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/2309.dir
   OBJECT_FILE_DIR = CMakeFiles/2309.dir/바킹독_알고리즘/기초코드작성요령II
 
@@ -250,7 +250,7 @@ build CMakeFiles/2309.dir/바킹독_알고리즘/기초코드작성요령II/2309
 # Link the executable 2309
 
 build 2309: CXX_EXECUTABLE_LINKER__2309_Debug CMakeFiles/2309.dir/바킹독_알고리즘/기초코드작성요령II/2309.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/2309.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -268,7 +268,7 @@ build cmake_object_order_depends_target_2438: phony || CMakeFiles/2438.dir
 
 build CMakeFiles/2438.dir/바킹독_알고리즘/기초코드작성요령II/2438.cpp.o: CXX_COMPILER__2438_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/기초코드작성요령II/2438.cpp || cmake_object_order_depends_target_2438
   DEP_FILE = CMakeFiles/2438.dir/바킹독_알고리즘/기초코드작성요령II/2438.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/2438.dir
   OBJECT_FILE_DIR = CMakeFiles/2438.dir/바킹독_알고리즘/기초코드작성요령II
 
@@ -281,7 +281,7 @@ build CMakeFiles/2438.dir/바킹독_알고리즘/기초코드작성요령II/2438
 # Link the executable 2438
 
 build 2438: CXX_EXECUTABLE_LINKER__2438_Debug CMakeFiles/2438.dir/바킹독_알고리즘/기초코드작성요령II/2438.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/2438.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -299,7 +299,7 @@ build cmake_object_order_depends_target_2439: phony || CMakeFiles/2439.dir
 
 build CMakeFiles/2439.dir/바킹독_알고리즘/기초코드작성요령II/2439.cpp.o: CXX_COMPILER__2439_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/기초코드작성요령II/2439.cpp || cmake_object_order_depends_target_2439
   DEP_FILE = CMakeFiles/2439.dir/바킹독_알고리즘/기초코드작성요령II/2439.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/2439.dir
   OBJECT_FILE_DIR = CMakeFiles/2439.dir/바킹독_알고리즘/기초코드작성요령II
 
@@ -312,7 +312,7 @@ build CMakeFiles/2439.dir/바킹독_알고리즘/기초코드작성요령II/2439
 # Link the executable 2439
 
 build 2439: CXX_EXECUTABLE_LINKER__2439_Debug CMakeFiles/2439.dir/바킹독_알고리즘/기초코드작성요령II/2439.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/2439.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -330,7 +330,7 @@ build cmake_object_order_depends_target_2440: phony || CMakeFiles/2440.dir
 
 build CMakeFiles/2440.dir/바킹독_알고리즘/기초코드작성요령II/2440.cpp.o: CXX_COMPILER__2440_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/기초코드작성요령II/2440.cpp || cmake_object_order_depends_target_2440
   DEP_FILE = CMakeFiles/2440.dir/바킹독_알고리즘/기초코드작성요령II/2440.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/2440.dir
   OBJECT_FILE_DIR = CMakeFiles/2440.dir/바킹독_알고리즘/기초코드작성요령II
 
@@ -343,7 +343,7 @@ build CMakeFiles/2440.dir/바킹독_알고리즘/기초코드작성요령II/2440
 # Link the executable 2440
 
 build 2440: CXX_EXECUTABLE_LINKER__2440_Debug CMakeFiles/2440.dir/바킹독_알고리즘/기초코드작성요령II/2440.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/2440.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -361,7 +361,7 @@ build cmake_object_order_depends_target_2441: phony || CMakeFiles/2441.dir
 
 build CMakeFiles/2441.dir/바킹독_알고리즘/기초코드작성요령II/2441.cpp.o: CXX_COMPILER__2441_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/기초코드작성요령II/2441.cpp || cmake_object_order_depends_target_2441
   DEP_FILE = CMakeFiles/2441.dir/바킹독_알고리즘/기초코드작성요령II/2441.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/2441.dir
   OBJECT_FILE_DIR = CMakeFiles/2441.dir/바킹독_알고리즘/기초코드작성요령II
 
@@ -374,7 +374,7 @@ build CMakeFiles/2441.dir/바킹독_알고리즘/기초코드작성요령II/2441
 # Link the executable 2441
 
 build 2441: CXX_EXECUTABLE_LINKER__2441_Debug CMakeFiles/2441.dir/바킹독_알고리즘/기초코드작성요령II/2441.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/2441.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -392,7 +392,7 @@ build cmake_object_order_depends_target_2442: phony || CMakeFiles/2442.dir
 
 build CMakeFiles/2442.dir/바킹독_알고리즘/기초코드작성요령II/2442.cpp.o: CXX_COMPILER__2442_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/기초코드작성요령II/2442.cpp || cmake_object_order_depends_target_2442
   DEP_FILE = CMakeFiles/2442.dir/바킹독_알고리즘/기초코드작성요령II/2442.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/2442.dir
   OBJECT_FILE_DIR = CMakeFiles/2442.dir/바킹독_알고리즘/기초코드작성요령II
 
@@ -405,7 +405,7 @@ build CMakeFiles/2442.dir/바킹독_알고리즘/기초코드작성요령II/2442
 # Link the executable 2442
 
 build 2442: CXX_EXECUTABLE_LINKER__2442_Debug CMakeFiles/2442.dir/바킹독_알고리즘/기초코드작성요령II/2442.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/2442.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -423,7 +423,7 @@ build cmake_object_order_depends_target_2443: phony || CMakeFiles/2443.dir
 
 build CMakeFiles/2443.dir/바킹독_알고리즘/기초코드작성요령II/2443.cpp.o: CXX_COMPILER__2443_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/기초코드작성요령II/2443.cpp || cmake_object_order_depends_target_2443
   DEP_FILE = CMakeFiles/2443.dir/바킹독_알고리즘/기초코드작성요령II/2443.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/2443.dir
   OBJECT_FILE_DIR = CMakeFiles/2443.dir/바킹독_알고리즘/기초코드작성요령II
 
@@ -436,7 +436,7 @@ build CMakeFiles/2443.dir/바킹독_알고리즘/기초코드작성요령II/2443
 # Link the executable 2443
 
 build 2443: CXX_EXECUTABLE_LINKER__2443_Debug CMakeFiles/2443.dir/바킹독_알고리즘/기초코드작성요령II/2443.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/2443.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -454,7 +454,7 @@ build cmake_object_order_depends_target_2444: phony || CMakeFiles/2444.dir
 
 build CMakeFiles/2444.dir/바킹독_알고리즘/기초코드작성요령II/2444.cpp.o: CXX_COMPILER__2444_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/기초코드작성요령II/2444.cpp || cmake_object_order_depends_target_2444
   DEP_FILE = CMakeFiles/2444.dir/바킹독_알고리즘/기초코드작성요령II/2444.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/2444.dir
   OBJECT_FILE_DIR = CMakeFiles/2444.dir/바킹독_알고리즘/기초코드작성요령II
 
@@ -467,7 +467,7 @@ build CMakeFiles/2444.dir/바킹독_알고리즘/기초코드작성요령II/2444
 # Link the executable 2444
 
 build 2444: CXX_EXECUTABLE_LINKER__2444_Debug CMakeFiles/2444.dir/바킹독_알고리즘/기초코드작성요령II/2444.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/2444.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -485,7 +485,7 @@ build cmake_object_order_depends_target_2445: phony || CMakeFiles/2445.dir
 
 build CMakeFiles/2445.dir/바킹독_알고리즘/기초코드작성요령II/2445.cpp.o: CXX_COMPILER__2445_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/기초코드작성요령II/2445.cpp || cmake_object_order_depends_target_2445
   DEP_FILE = CMakeFiles/2445.dir/바킹독_알고리즘/기초코드작성요령II/2445.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/2445.dir
   OBJECT_FILE_DIR = CMakeFiles/2445.dir/바킹독_알고리즘/기초코드작성요령II
 
@@ -498,7 +498,7 @@ build CMakeFiles/2445.dir/바킹독_알고리즘/기초코드작성요령II/2445
 # Link the executable 2445
 
 build 2445: CXX_EXECUTABLE_LINKER__2445_Debug CMakeFiles/2445.dir/바킹독_알고리즘/기초코드작성요령II/2445.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/2445.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -516,7 +516,7 @@ build cmake_object_order_depends_target_2446: phony || CMakeFiles/2446.dir
 
 build CMakeFiles/2446.dir/바킹독_알고리즘/기초코드작성요령II/2446.cpp.o: CXX_COMPILER__2446_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/기초코드작성요령II/2446.cpp || cmake_object_order_depends_target_2446
   DEP_FILE = CMakeFiles/2446.dir/바킹독_알고리즘/기초코드작성요령II/2446.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/2446.dir
   OBJECT_FILE_DIR = CMakeFiles/2446.dir/바킹독_알고리즘/기초코드작성요령II
 
@@ -529,7 +529,7 @@ build CMakeFiles/2446.dir/바킹독_알고리즘/기초코드작성요령II/2446
 # Link the executable 2446
 
 build 2446: CXX_EXECUTABLE_LINKER__2446_Debug CMakeFiles/2446.dir/바킹독_알고리즘/기초코드작성요령II/2446.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/2446.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -547,7 +547,7 @@ build cmake_object_order_depends_target_2480: phony || CMakeFiles/2480.dir
 
 build CMakeFiles/2480.dir/바킹독_알고리즘/기초코드작성요령II/2480.cpp.o: CXX_COMPILER__2480_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/기초코드작성요령II/2480.cpp || cmake_object_order_depends_target_2480
   DEP_FILE = CMakeFiles/2480.dir/바킹독_알고리즘/기초코드작성요령II/2480.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/2480.dir
   OBJECT_FILE_DIR = CMakeFiles/2480.dir/바킹독_알고리즘/기초코드작성요령II
 
@@ -560,7 +560,7 @@ build CMakeFiles/2480.dir/바킹독_알고리즘/기초코드작성요령II/2480
 # Link the executable 2480
 
 build 2480: CXX_EXECUTABLE_LINKER__2480_Debug CMakeFiles/2480.dir/바킹독_알고리즘/기초코드작성요령II/2480.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/2480.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -578,7 +578,7 @@ build cmake_object_order_depends_target_2490: phony || CMakeFiles/2490.dir
 
 build CMakeFiles/2490.dir/바킹독_알고리즘/기초코드작성요령II/2490.cpp.o: CXX_COMPILER__2490_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/기초코드작성요령II/2490.cpp || cmake_object_order_depends_target_2490
   DEP_FILE = CMakeFiles/2490.dir/바킹독_알고리즘/기초코드작성요령II/2490.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/2490.dir
   OBJECT_FILE_DIR = CMakeFiles/2490.dir/바킹독_알고리즘/기초코드작성요령II
 
@@ -591,7 +591,7 @@ build CMakeFiles/2490.dir/바킹독_알고리즘/기초코드작성요령II/2490
 # Link the executable 2490
 
 build 2490: CXX_EXECUTABLE_LINKER__2490_Debug CMakeFiles/2490.dir/바킹독_알고리즘/기초코드작성요령II/2490.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/2490.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -609,7 +609,7 @@ build cmake_object_order_depends_target_2557: phony || CMakeFiles/2557.dir
 
 build CMakeFiles/2557.dir/바킹독_알고리즘/기초코드작성요령II/2557.cpp.o: CXX_COMPILER__2557_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/기초코드작성요령II/2557.cpp || cmake_object_order_depends_target_2557
   DEP_FILE = CMakeFiles/2557.dir/바킹독_알고리즘/기초코드작성요령II/2557.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/2557.dir
   OBJECT_FILE_DIR = CMakeFiles/2557.dir/바킹독_알고리즘/기초코드작성요령II
 
@@ -622,7 +622,7 @@ build CMakeFiles/2557.dir/바킹독_알고리즘/기초코드작성요령II/2557
 # Link the executable 2557
 
 build 2557: CXX_EXECUTABLE_LINKER__2557_Debug CMakeFiles/2557.dir/바킹독_알고리즘/기초코드작성요령II/2557.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/2557.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -640,7 +640,7 @@ build cmake_object_order_depends_target_2562: phony || CMakeFiles/2562.dir
 
 build CMakeFiles/2562.dir/바킹독_알고리즘/기초코드작성요령II/2562.cpp.o: CXX_COMPILER__2562_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/기초코드작성요령II/2562.cpp || cmake_object_order_depends_target_2562
   DEP_FILE = CMakeFiles/2562.dir/바킹독_알고리즘/기초코드작성요령II/2562.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/2562.dir
   OBJECT_FILE_DIR = CMakeFiles/2562.dir/바킹독_알고리즘/기초코드작성요령II
 
@@ -653,7 +653,7 @@ build CMakeFiles/2562.dir/바킹독_알고리즘/기초코드작성요령II/2562
 # Link the executable 2562
 
 build 2562: CXX_EXECUTABLE_LINKER__2562_Debug CMakeFiles/2562.dir/바킹독_알고리즘/기초코드작성요령II/2562.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/2562.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -671,7 +671,7 @@ build cmake_object_order_depends_target_2576: phony || CMakeFiles/2576.dir
 
 build CMakeFiles/2576.dir/바킹독_알고리즘/기초코드작성요령II/2576.cpp.o: CXX_COMPILER__2576_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/기초코드작성요령II/2576.cpp || cmake_object_order_depends_target_2576
   DEP_FILE = CMakeFiles/2576.dir/바킹독_알고리즘/기초코드작성요령II/2576.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/2576.dir
   OBJECT_FILE_DIR = CMakeFiles/2576.dir/바킹독_알고리즘/기초코드작성요령II
 
@@ -684,7 +684,7 @@ build CMakeFiles/2576.dir/바킹독_알고리즘/기초코드작성요령II/2576
 # Link the executable 2576
 
 build 2576: CXX_EXECUTABLE_LINKER__2576_Debug CMakeFiles/2576.dir/바킹독_알고리즘/기초코드작성요령II/2576.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/2576.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -702,7 +702,7 @@ build cmake_object_order_depends_target_2587: phony || CMakeFiles/2587.dir
 
 build CMakeFiles/2587.dir/바킹독_알고리즘/기초코드작성요령II/2587.cpp.o: CXX_COMPILER__2587_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/기초코드작성요령II/2587.cpp || cmake_object_order_depends_target_2587
   DEP_FILE = CMakeFiles/2587.dir/바킹독_알고리즘/기초코드작성요령II/2587.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/2587.dir
   OBJECT_FILE_DIR = CMakeFiles/2587.dir/바킹독_알고리즘/기초코드작성요령II
 
@@ -715,7 +715,7 @@ build CMakeFiles/2587.dir/바킹독_알고리즘/기초코드작성요령II/2587
 # Link the executable 2587
 
 build 2587: CXX_EXECUTABLE_LINKER__2587_Debug CMakeFiles/2587.dir/바킹독_알고리즘/기초코드작성요령II/2587.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/2587.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -733,7 +733,7 @@ build cmake_object_order_depends_target_2752: phony || CMakeFiles/2752.dir
 
 build CMakeFiles/2752.dir/바킹독_알고리즘/기초코드작성요령II/2752.cpp.o: CXX_COMPILER__2752_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/기초코드작성요령II/2752.cpp || cmake_object_order_depends_target_2752
   DEP_FILE = CMakeFiles/2752.dir/바킹독_알고리즘/기초코드작성요령II/2752.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/2752.dir
   OBJECT_FILE_DIR = CMakeFiles/2752.dir/바킹독_알고리즘/기초코드작성요령II
 
@@ -746,7 +746,7 @@ build CMakeFiles/2752.dir/바킹독_알고리즘/기초코드작성요령II/2752
 # Link the executable 2752
 
 build 2752: CXX_EXECUTABLE_LINKER__2752_Debug CMakeFiles/2752.dir/바킹독_알고리즘/기초코드작성요령II/2752.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/2752.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -764,7 +764,7 @@ build cmake_object_order_depends_target_2753: phony || CMakeFiles/2753.dir
 
 build CMakeFiles/2753.dir/바킹독_알고리즘/기초코드작성요령II/2753.cpp.o: CXX_COMPILER__2753_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/기초코드작성요령II/2753.cpp || cmake_object_order_depends_target_2753
   DEP_FILE = CMakeFiles/2753.dir/바킹독_알고리즘/기초코드작성요령II/2753.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/2753.dir
   OBJECT_FILE_DIR = CMakeFiles/2753.dir/바킹독_알고리즘/기초코드작성요령II
 
@@ -777,7 +777,7 @@ build CMakeFiles/2753.dir/바킹독_알고리즘/기초코드작성요령II/2753
 # Link the executable 2753
 
 build 2753: CXX_EXECUTABLE_LINKER__2753_Debug CMakeFiles/2753.dir/바킹독_알고리즘/기초코드작성요령II/2753.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/2753.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -795,7 +795,7 @@ build cmake_object_order_depends_target_9498: phony || CMakeFiles/9498.dir
 
 build CMakeFiles/9498.dir/바킹독_알고리즘/기초코드작성요령II/9498.cpp.o: CXX_COMPILER__9498_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/기초코드작성요령II/9498.cpp || cmake_object_order_depends_target_9498
   DEP_FILE = CMakeFiles/9498.dir/바킹독_알고리즘/기초코드작성요령II/9498.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/9498.dir
   OBJECT_FILE_DIR = CMakeFiles/9498.dir/바킹독_알고리즘/기초코드작성요령II
 
@@ -808,7 +808,7 @@ build CMakeFiles/9498.dir/바킹독_알고리즘/기초코드작성요령II/9498
 # Link the executable 9498
 
 build 9498: CXX_EXECUTABLE_LINKER__9498_Debug CMakeFiles/9498.dir/바킹독_알고리즘/기초코드작성요령II/9498.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/9498.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -826,7 +826,7 @@ build cmake_object_order_depends_target_10093: phony || CMakeFiles/10093.dir
 
 build CMakeFiles/10093.dir/바킹독_알고리즘/기초코드작성요령II/10093.cpp.o: CXX_COMPILER__10093_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/기초코드작성요령II/10093.cpp || cmake_object_order_depends_target_10093
   DEP_FILE = CMakeFiles/10093.dir/바킹독_알고리즘/기초코드작성요령II/10093.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/10093.dir
   OBJECT_FILE_DIR = CMakeFiles/10093.dir/바킹독_알고리즘/기초코드작성요령II
 
@@ -839,7 +839,7 @@ build CMakeFiles/10093.dir/바킹독_알고리즘/기초코드작성요령II/100
 # Link the executable 10093
 
 build 10093: CXX_EXECUTABLE_LINKER__10093_Debug CMakeFiles/10093.dir/바킹독_알고리즘/기초코드작성요령II/10093.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/10093.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -857,7 +857,7 @@ build cmake_object_order_depends_target_10171: phony || CMakeFiles/10171.dir
 
 build CMakeFiles/10171.dir/바킹독_알고리즘/기초코드작성요령II/10171.cpp.o: CXX_COMPILER__10171_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/기초코드작성요령II/10171.cpp || cmake_object_order_depends_target_10171
   DEP_FILE = CMakeFiles/10171.dir/바킹독_알고리즘/기초코드작성요령II/10171.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/10171.dir
   OBJECT_FILE_DIR = CMakeFiles/10171.dir/바킹독_알고리즘/기초코드작성요령II
 
@@ -870,7 +870,7 @@ build CMakeFiles/10171.dir/바킹독_알고리즘/기초코드작성요령II/101
 # Link the executable 10171
 
 build 10171: CXX_EXECUTABLE_LINKER__10171_Debug CMakeFiles/10171.dir/바킹독_알고리즘/기초코드작성요령II/10171.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/10171.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -888,7 +888,7 @@ build cmake_object_order_depends_target_10804: phony || CMakeFiles/10804.dir
 
 build CMakeFiles/10804.dir/바킹독_알고리즘/기초코드작성요령II/10804.cpp.o: CXX_COMPILER__10804_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/기초코드작성요령II/10804.cpp || cmake_object_order_depends_target_10804
   DEP_FILE = CMakeFiles/10804.dir/바킹독_알고리즘/기초코드작성요령II/10804.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/10804.dir
   OBJECT_FILE_DIR = CMakeFiles/10804.dir/바킹독_알고리즘/기초코드작성요령II
 
@@ -901,7 +901,7 @@ build CMakeFiles/10804.dir/바킹독_알고리즘/기초코드작성요령II/108
 # Link the executable 10804
 
 build 10804: CXX_EXECUTABLE_LINKER__10804_Debug CMakeFiles/10804.dir/바킹독_알고리즘/기초코드작성요령II/10804.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/10804.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -919,7 +919,7 @@ build cmake_object_order_depends_target_10869: phony || CMakeFiles/10869.dir
 
 build CMakeFiles/10869.dir/바킹독_알고리즘/기초코드작성요령II/10869.cpp.o: CXX_COMPILER__10869_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/기초코드작성요령II/10869.cpp || cmake_object_order_depends_target_10869
   DEP_FILE = CMakeFiles/10869.dir/바킹독_알고리즘/기초코드작성요령II/10869.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/10869.dir
   OBJECT_FILE_DIR = CMakeFiles/10869.dir/바킹독_알고리즘/기초코드작성요령II
 
@@ -932,7 +932,7 @@ build CMakeFiles/10869.dir/바킹독_알고리즘/기초코드작성요령II/108
 # Link the executable 10869
 
 build 10869: CXX_EXECUTABLE_LINKER__10869_Debug CMakeFiles/10869.dir/바킹독_알고리즘/기초코드작성요령II/10869.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/10869.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -950,7 +950,7 @@ build cmake_object_order_depends_target_10871: phony || CMakeFiles/10871.dir
 
 build CMakeFiles/10871.dir/바킹독_알고리즘/기초코드작성요령II/10871.cpp.o: CXX_COMPILER__10871_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/기초코드작성요령II/10871.cpp || cmake_object_order_depends_target_10871
   DEP_FILE = CMakeFiles/10871.dir/바킹독_알고리즘/기초코드작성요령II/10871.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/10871.dir
   OBJECT_FILE_DIR = CMakeFiles/10871.dir/바킹독_알고리즘/기초코드작성요령II
 
@@ -963,7 +963,7 @@ build CMakeFiles/10871.dir/바킹독_알고리즘/기초코드작성요령II/108
 # Link the executable 10871
 
 build 10871: CXX_EXECUTABLE_LINKER__10871_Debug CMakeFiles/10871.dir/바킹독_알고리즘/기초코드작성요령II/10871.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/10871.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -981,7 +981,7 @@ build cmake_object_order_depends_target_15552: phony || CMakeFiles/15552.dir
 
 build CMakeFiles/15552.dir/바킹독_알고리즘/기초코드작성요령II/15552.cpp.o: CXX_COMPILER__15552_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/기초코드작성요령II/15552.cpp || cmake_object_order_depends_target_15552
   DEP_FILE = CMakeFiles/15552.dir/바킹독_알고리즘/기초코드작성요령II/15552.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/15552.dir
   OBJECT_FILE_DIR = CMakeFiles/15552.dir/바킹독_알고리즘/기초코드작성요령II
 
@@ -994,7 +994,7 @@ build CMakeFiles/15552.dir/바킹독_알고리즘/기초코드작성요령II/155
 # Link the executable 15552
 
 build 15552: CXX_EXECUTABLE_LINKER__15552_Debug CMakeFiles/15552.dir/바킹독_알고리즘/기초코드작성요령II/15552.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/15552.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1012,7 +1012,7 @@ build cmake_object_order_depends_target_1475: phony || CMakeFiles/1475.dir
 
 build CMakeFiles/1475.dir/바킹독_알고리즘/배열/1475.cpp.o: CXX_COMPILER__1475_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/배열/1475.cpp || cmake_object_order_depends_target_1475
   DEP_FILE = CMakeFiles/1475.dir/바킹독_알고리즘/배열/1475.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/1475.dir
   OBJECT_FILE_DIR = CMakeFiles/1475.dir/바킹독_알고리즘/배열
 
@@ -1025,7 +1025,7 @@ build CMakeFiles/1475.dir/바킹독_알고리즘/배열/1475.cpp.o: CXX_COMPILER
 # Link the executable 1475
 
 build 1475: CXX_EXECUTABLE_LINKER__1475_Debug CMakeFiles/1475.dir/바킹독_알고리즘/배열/1475.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/1475.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1043,7 +1043,7 @@ build cmake_object_order_depends_target_1919: phony || CMakeFiles/1919.dir
 
 build CMakeFiles/1919.dir/바킹독_알고리즘/배열/1919.cpp.o: CXX_COMPILER__1919_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/배열/1919.cpp || cmake_object_order_depends_target_1919
   DEP_FILE = CMakeFiles/1919.dir/바킹독_알고리즘/배열/1919.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/1919.dir
   OBJECT_FILE_DIR = CMakeFiles/1919.dir/바킹독_알고리즘/배열
 
@@ -1056,7 +1056,7 @@ build CMakeFiles/1919.dir/바킹독_알고리즘/배열/1919.cpp.o: CXX_COMPILER
 # Link the executable 1919
 
 build 1919: CXX_EXECUTABLE_LINKER__1919_Debug CMakeFiles/1919.dir/바킹독_알고리즘/배열/1919.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/1919.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1074,7 +1074,7 @@ build cmake_object_order_depends_target_2577: phony || CMakeFiles/2577.dir
 
 build CMakeFiles/2577.dir/바킹독_알고리즘/배열/2577.cpp.o: CXX_COMPILER__2577_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/배열/2577.cpp || cmake_object_order_depends_target_2577
   DEP_FILE = CMakeFiles/2577.dir/바킹독_알고리즘/배열/2577.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/2577.dir
   OBJECT_FILE_DIR = CMakeFiles/2577.dir/바킹독_알고리즘/배열
 
@@ -1087,7 +1087,7 @@ build CMakeFiles/2577.dir/바킹독_알고리즘/배열/2577.cpp.o: CXX_COMPILER
 # Link the executable 2577
 
 build 2577: CXX_EXECUTABLE_LINKER__2577_Debug CMakeFiles/2577.dir/바킹독_알고리즘/배열/2577.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/2577.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1105,7 +1105,7 @@ build cmake_object_order_depends_target_3273: phony || CMakeFiles/3273.dir
 
 build CMakeFiles/3273.dir/바킹독_알고리즘/배열/3273.cpp.o: CXX_COMPILER__3273_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/배열/3273.cpp || cmake_object_order_depends_target_3273
   DEP_FILE = CMakeFiles/3273.dir/바킹독_알고리즘/배열/3273.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/3273.dir
   OBJECT_FILE_DIR = CMakeFiles/3273.dir/바킹독_알고리즘/배열
 
@@ -1118,7 +1118,7 @@ build CMakeFiles/3273.dir/바킹독_알고리즘/배열/3273.cpp.o: CXX_COMPILER
 # Link the executable 3273
 
 build 3273: CXX_EXECUTABLE_LINKER__3273_Debug CMakeFiles/3273.dir/바킹독_알고리즘/배열/3273.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/3273.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1136,7 +1136,7 @@ build cmake_object_order_depends_target_3273_2: phony || CMakeFiles/3273_2.dir
 
 build CMakeFiles/3273_2.dir/바킹독_알고리즘/배열/3273_2.cpp.o: CXX_COMPILER__3273_2_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/배열/3273_2.cpp || cmake_object_order_depends_target_3273_2
   DEP_FILE = CMakeFiles/3273_2.dir/바킹독_알고리즘/배열/3273_2.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/3273_2.dir
   OBJECT_FILE_DIR = CMakeFiles/3273_2.dir/바킹독_알고리즘/배열
 
@@ -1149,7 +1149,7 @@ build CMakeFiles/3273_2.dir/바킹독_알고리즘/배열/3273_2.cpp.o: CXX_COMP
 # Link the executable 3273_2
 
 build 3273_2: CXX_EXECUTABLE_LINKER__3273_2_Debug CMakeFiles/3273_2.dir/바킹독_알고리즘/배열/3273_2.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/3273_2.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1167,7 +1167,7 @@ build cmake_object_order_depends_target_3273_3: phony || CMakeFiles/3273_3.dir
 
 build CMakeFiles/3273_3.dir/바킹독_알고리즘/배열/3273_3.cpp.o: CXX_COMPILER__3273_3_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/배열/3273_3.cpp || cmake_object_order_depends_target_3273_3
   DEP_FILE = CMakeFiles/3273_3.dir/바킹독_알고리즘/배열/3273_3.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/3273_3.dir
   OBJECT_FILE_DIR = CMakeFiles/3273_3.dir/바킹독_알고리즘/배열
 
@@ -1180,7 +1180,7 @@ build CMakeFiles/3273_3.dir/바킹독_알고리즘/배열/3273_3.cpp.o: CXX_COMP
 # Link the executable 3273_3
 
 build 3273_3: CXX_EXECUTABLE_LINKER__3273_3_Debug CMakeFiles/3273_3.dir/바킹독_알고리즘/배열/3273_3.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/3273_3.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1198,7 +1198,7 @@ build cmake_object_order_depends_target_10807: phony || CMakeFiles/10807.dir
 
 build CMakeFiles/10807.dir/바킹독_알고리즘/배열/10807.cpp.o: CXX_COMPILER__10807_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/배열/10807.cpp || cmake_object_order_depends_target_10807
   DEP_FILE = CMakeFiles/10807.dir/바킹독_알고리즘/배열/10807.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/10807.dir
   OBJECT_FILE_DIR = CMakeFiles/10807.dir/바킹독_알고리즘/배열
 
@@ -1211,7 +1211,7 @@ build CMakeFiles/10807.dir/바킹독_알고리즘/배열/10807.cpp.o: CXX_COMPIL
 # Link the executable 10807
 
 build 10807: CXX_EXECUTABLE_LINKER__10807_Debug CMakeFiles/10807.dir/바킹독_알고리즘/배열/10807.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/10807.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1229,7 +1229,7 @@ build cmake_object_order_depends_target_10808: phony || CMakeFiles/10808.dir
 
 build CMakeFiles/10808.dir/바킹독_알고리즘/배열/10808.cpp.o: CXX_COMPILER__10808_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/배열/10808.cpp || cmake_object_order_depends_target_10808
   DEP_FILE = CMakeFiles/10808.dir/바킹독_알고리즘/배열/10808.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/10808.dir
   OBJECT_FILE_DIR = CMakeFiles/10808.dir/바킹독_알고리즘/배열
 
@@ -1242,7 +1242,7 @@ build CMakeFiles/10808.dir/바킹독_알고리즘/배열/10808.cpp.o: CXX_COMPIL
 # Link the executable 10808
 
 build 10808: CXX_EXECUTABLE_LINKER__10808_Debug CMakeFiles/10808.dir/바킹독_알고리즘/배열/10808.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/10808.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1260,7 +1260,7 @@ build cmake_object_order_depends_target_11328: phony || CMakeFiles/11328.dir
 
 build CMakeFiles/11328.dir/바킹독_알고리즘/배열/11328.cpp.o: CXX_COMPILER__11328_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/배열/11328.cpp || cmake_object_order_depends_target_11328
   DEP_FILE = CMakeFiles/11328.dir/바킹독_알고리즘/배열/11328.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/11328.dir
   OBJECT_FILE_DIR = CMakeFiles/11328.dir/바킹독_알고리즘/배열
 
@@ -1273,7 +1273,7 @@ build CMakeFiles/11328.dir/바킹독_알고리즘/배열/11328.cpp.o: CXX_COMPIL
 # Link the executable 11328
 
 build 11328: CXX_EXECUTABLE_LINKER__11328_Debug CMakeFiles/11328.dir/바킹독_알고리즘/배열/11328.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/11328.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1291,7 +1291,7 @@ build cmake_object_order_depends_target_array_test: phony || CMakeFiles/array_te
 
 build CMakeFiles/array_test.dir/바킹독_알고리즘/배열/array_test.cpp.o: CXX_COMPILER__array_test_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/배열/array_test.cpp || cmake_object_order_depends_target_array_test
   DEP_FILE = CMakeFiles/array_test.dir/바킹독_알고리즘/배열/array_test.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/array_test.dir
   OBJECT_FILE_DIR = CMakeFiles/array_test.dir/바킹독_알고리즘/배열
 
@@ -1304,7 +1304,7 @@ build CMakeFiles/array_test.dir/바킹독_알고리즘/배열/array_test.cpp.o: 
 # Link the executable array_test
 
 build array_test: CXX_EXECUTABLE_LINKER__array_test_Debug CMakeFiles/array_test.dir/바킹독_알고리즘/배열/array_test.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/array_test.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1322,7 +1322,7 @@ build cmake_object_order_depends_target_13300: phony || CMakeFiles/13300.dir
 
 build CMakeFiles/13300.dir/바킹독_알고리즘/배열/13300.cpp.o: CXX_COMPILER__13300_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/배열/13300.cpp || cmake_object_order_depends_target_13300
   DEP_FILE = CMakeFiles/13300.dir/바킹독_알고리즘/배열/13300.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/13300.dir
   OBJECT_FILE_DIR = CMakeFiles/13300.dir/바킹독_알고리즘/배열
 
@@ -1335,7 +1335,7 @@ build CMakeFiles/13300.dir/바킹독_알고리즘/배열/13300.cpp.o: CXX_COMPIL
 # Link the executable 13300
 
 build 13300: CXX_EXECUTABLE_LINKER__13300_Debug CMakeFiles/13300.dir/바킹독_알고리즘/배열/13300.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/13300.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1353,7 +1353,7 @@ build cmake_object_order_depends_target_func2: phony || CMakeFiles/func2.dir
 
 build CMakeFiles/func2.dir/바킹독_알고리즘/배열/func2.cpp.o: CXX_COMPILER__func2_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/배열/func2.cpp || cmake_object_order_depends_target_func2
   DEP_FILE = CMakeFiles/func2.dir/바킹독_알고리즘/배열/func2.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/func2.dir
   OBJECT_FILE_DIR = CMakeFiles/func2.dir/바킹독_알고리즘/배열
 
@@ -1366,7 +1366,7 @@ build CMakeFiles/func2.dir/바킹독_알고리즘/배열/func2.cpp.o: CXX_COMPIL
 # Link the executable func2
 
 build func2: CXX_EXECUTABLE_LINKER__func2_Debug CMakeFiles/func2.dir/바킹독_알고리즘/배열/func2.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/func2.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1384,7 +1384,7 @@ build cmake_object_order_depends_target_vector_example: phony || CMakeFiles/vect
 
 build CMakeFiles/vector_example.dir/바킹독_알고리즘/배열/vector_example.cpp.o: CXX_COMPILER__vector_example_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/배열/vector_example.cpp || cmake_object_order_depends_target_vector_example
   DEP_FILE = CMakeFiles/vector_example.dir/바킹독_알고리즘/배열/vector_example.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/vector_example.dir
   OBJECT_FILE_DIR = CMakeFiles/vector_example.dir/바킹독_알고리즘/배열
 
@@ -1397,7 +1397,7 @@ build CMakeFiles/vector_example.dir/바킹독_알고리즘/배열/vector_example
 # Link the executable vector_example
 
 build vector_example: CXX_EXECUTABLE_LINKER__vector_example_Debug CMakeFiles/vector_example.dir/바킹독_알고리즘/배열/vector_example.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/vector_example.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1415,7 +1415,7 @@ build cmake_object_order_depends_target_linked_list_test: phony || CMakeFiles/li
 
 build CMakeFiles/linked_list_test.dir/바킹독_알고리즘/연결_리스트/linked_list_test.cpp.o: CXX_COMPILER__linked_list_test_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/연결$ 리스트/linked_list_test.cpp || cmake_object_order_depends_target_linked_list_test
   DEP_FILE = CMakeFiles/linked_list_test.dir/바킹독_알고리즘/연결_리스트/linked_list_test.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/linked_list_test.dir
   OBJECT_FILE_DIR = CMakeFiles/linked_list_test.dir/바킹독_알고리즘/연결_리스트
 
@@ -1428,7 +1428,7 @@ build CMakeFiles/linked_list_test.dir/바킹독_알고리즘/연결_리스트/li
 # Link the executable linked_list_test
 
 build linked_list_test: CXX_EXECUTABLE_LINKER__linked_list_test_Debug CMakeFiles/linked_list_test.dir/바킹독_알고리즘/연결_리스트/linked_list_test.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/linked_list_test.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1446,7 +1446,7 @@ build cmake_object_order_depends_target_list_example: phony || CMakeFiles/list_e
 
 build CMakeFiles/list_example.dir/바킹독_알고리즘/연결_리스트/list_example.cpp.o: CXX_COMPILER__list_example_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/연결$ 리스트/list_example.cpp || cmake_object_order_depends_target_list_example
   DEP_FILE = CMakeFiles/list_example.dir/바킹독_알고리즘/연결_리스트/list_example.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/list_example.dir
   OBJECT_FILE_DIR = CMakeFiles/list_example.dir/바킹독_알고리즘/연결_리스트
 
@@ -1459,7 +1459,7 @@ build CMakeFiles/list_example.dir/바킹독_알고리즘/연결_리스트/list_e
 # Link the executable list_example
 
 build list_example: CXX_EXECUTABLE_LINKER__list_example_Debug CMakeFiles/list_example.dir/바킹독_알고리즘/연결_리스트/list_example.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/list_example.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1477,7 +1477,7 @@ build cmake_object_order_depends_target_1406: phony || CMakeFiles/1406.dir
 
 build CMakeFiles/1406.dir/바킹독_알고리즘/연결_리스트/1406.cpp.o: CXX_COMPILER__1406_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/연결$ 리스트/1406.cpp || cmake_object_order_depends_target_1406
   DEP_FILE = CMakeFiles/1406.dir/바킹독_알고리즘/연결_리스트/1406.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/1406.dir
   OBJECT_FILE_DIR = CMakeFiles/1406.dir/바킹독_알고리즘/연결_리스트
 
@@ -1490,7 +1490,7 @@ build CMakeFiles/1406.dir/바킹독_알고리즘/연결_리스트/1406.cpp.o: CX
 # Link the executable 1406
 
 build 1406: CXX_EXECUTABLE_LINKER__1406_Debug CMakeFiles/1406.dir/바킹독_알고리즘/연결_리스트/1406.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/1406.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1508,7 +1508,7 @@ build cmake_object_order_depends_target_1408_list_impl: phony || CMakeFiles/1408
 
 build CMakeFiles/1408_list_impl.dir/바킹독_알고리즘/연결_리스트/1408_list_impl.cpp.o: CXX_COMPILER__1408_list_impl_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/연결$ 리스트/1408_list_impl.cpp || cmake_object_order_depends_target_1408_list_impl
   DEP_FILE = CMakeFiles/1408_list_impl.dir/바킹독_알고리즘/연결_리스트/1408_list_impl.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/1408_list_impl.dir
   OBJECT_FILE_DIR = CMakeFiles/1408_list_impl.dir/바킹독_알고리즘/연결_리스트
 
@@ -1521,7 +1521,7 @@ build CMakeFiles/1408_list_impl.dir/바킹독_알고리즘/연결_리스트/1408
 # Link the executable 1408_list_impl
 
 build 1408_list_impl: CXX_EXECUTABLE_LINKER__1408_list_impl_Debug CMakeFiles/1408_list_impl.dir/바킹독_알고리즘/연결_리스트/1408_list_impl.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/1408_list_impl.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1539,7 +1539,7 @@ build cmake_object_order_depends_target_5397: phony || CMakeFiles/5397.dir
 
 build CMakeFiles/5397.dir/바킹독_알고리즘/연결_리스트/5397.cpp.o: CXX_COMPILER__5397_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/연결$ 리스트/5397.cpp || cmake_object_order_depends_target_5397
   DEP_FILE = CMakeFiles/5397.dir/바킹독_알고리즘/연결_리스트/5397.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/5397.dir
   OBJECT_FILE_DIR = CMakeFiles/5397.dir/바킹독_알고리즘/연결_리스트
 
@@ -1552,7 +1552,7 @@ build CMakeFiles/5397.dir/바킹독_알고리즘/연결_리스트/5397.cpp.o: CX
 # Link the executable 5397
 
 build 5397: CXX_EXECUTABLE_LINKER__5397_Debug CMakeFiles/5397.dir/바킹독_알고리즘/연결_리스트/5397.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/5397.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1570,7 +1570,7 @@ build cmake_object_order_depends_target_1158: phony || CMakeFiles/1158.dir
 
 build CMakeFiles/1158.dir/바킹독_알고리즘/연결_리스트/1158.cpp.o: CXX_COMPILER__1158_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/연결$ 리스트/1158.cpp || cmake_object_order_depends_target_1158
   DEP_FILE = CMakeFiles/1158.dir/바킹독_알고리즘/연결_리스트/1158.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/1158.dir
   OBJECT_FILE_DIR = CMakeFiles/1158.dir/바킹독_알고리즘/연결_리스트
 
@@ -1583,7 +1583,7 @@ build CMakeFiles/1158.dir/바킹독_알고리즘/연결_리스트/1158.cpp.o: CX
 # Link the executable 1158
 
 build 1158: CXX_EXECUTABLE_LINKER__1158_Debug CMakeFiles/1158.dir/바킹독_알고리즘/연결_리스트/1158.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/1158.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1601,7 +1601,7 @@ build cmake_object_order_depends_target_1158_1: phony || CMakeFiles/1158_1.dir
 
 build CMakeFiles/1158_1.dir/바킹독_알고리즘/연결_리스트/1158_1.cpp.o: CXX_COMPILER__1158_1_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/연결$ 리스트/1158_1.cpp || cmake_object_order_depends_target_1158_1
   DEP_FILE = CMakeFiles/1158_1.dir/바킹독_알고리즘/연결_리스트/1158_1.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/1158_1.dir
   OBJECT_FILE_DIR = CMakeFiles/1158_1.dir/바킹독_알고리즘/연결_리스트
 
@@ -1614,7 +1614,7 @@ build CMakeFiles/1158_1.dir/바킹독_알고리즘/연결_리스트/1158_1.cpp.o
 # Link the executable 1158_1
 
 build 1158_1: CXX_EXECUTABLE_LINKER__1158_1_Debug CMakeFiles/1158_1.dir/바킹독_알고리즘/연결_리스트/1158_1.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/1158_1.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1632,7 +1632,7 @@ build cmake_object_order_depends_target_1158_2: phony || CMakeFiles/1158_2.dir
 
 build CMakeFiles/1158_2.dir/바킹독_알고리즘/연결_리스트/1158_2.cpp.o: CXX_COMPILER__1158_2_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/연결$ 리스트/1158_2.cpp || cmake_object_order_depends_target_1158_2
   DEP_FILE = CMakeFiles/1158_2.dir/바킹독_알고리즘/연결_리스트/1158_2.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/1158_2.dir
   OBJECT_FILE_DIR = CMakeFiles/1158_2.dir/바킹독_알고리즘/연결_리스트
 
@@ -1645,7 +1645,7 @@ build CMakeFiles/1158_2.dir/바킹독_알고리즘/연결_리스트/1158_2.cpp.o
 # Link the executable 1158_2
 
 build 1158_2: CXX_EXECUTABLE_LINKER__1158_2_Debug CMakeFiles/1158_2.dir/바킹독_알고리즘/연결_리스트/1158_2.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/1158_2.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1663,7 +1663,7 @@ build cmake_object_order_depends_target_1158_3: phony || CMakeFiles/1158_3.dir
 
 build CMakeFiles/1158_3.dir/바킹독_알고리즘/연결_리스트/1158_3.cpp.o: CXX_COMPILER__1158_3_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/연결$ 리스트/1158_3.cpp || cmake_object_order_depends_target_1158_3
   DEP_FILE = CMakeFiles/1158_3.dir/바킹독_알고리즘/연결_리스트/1158_3.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/1158_3.dir
   OBJECT_FILE_DIR = CMakeFiles/1158_3.dir/바킹독_알고리즘/연결_리스트
 
@@ -1676,7 +1676,7 @@ build CMakeFiles/1158_3.dir/바킹독_알고리즘/연결_리스트/1158_3.cpp.o
 # Link the executable 1158_3
 
 build 1158_3: CXX_EXECUTABLE_LINKER__1158_3_Debug CMakeFiles/1158_3.dir/바킹독_알고리즘/연결_리스트/1158_3.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/1158_3.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1694,7 +1694,7 @@ build cmake_object_order_depends_target_stack_test: phony || CMakeFiles/stack_te
 
 build CMakeFiles/stack_test.dir/바킹독_알고리즘/스택/stack_test.cpp.o: CXX_COMPILER__stack_test_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/스택/stack_test.cpp || cmake_object_order_depends_target_stack_test
   DEP_FILE = CMakeFiles/stack_test.dir/바킹독_알고리즘/스택/stack_test.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/stack_test.dir
   OBJECT_FILE_DIR = CMakeFiles/stack_test.dir/바킹독_알고리즘/스택
 
@@ -1707,7 +1707,7 @@ build CMakeFiles/stack_test.dir/바킹독_알고리즘/스택/stack_test.cpp.o: 
 # Link the executable stack_test
 
 build stack_test: CXX_EXECUTABLE_LINKER__stack_test_Debug CMakeFiles/stack_test.dir/바킹독_알고리즘/스택/stack_test.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/stack_test.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1725,7 +1725,7 @@ build cmake_object_order_depends_target_stack_example: phony || CMakeFiles/stack
 
 build CMakeFiles/stack_example.dir/바킹독_알고리즘/스택/stack_example.cpp.o: CXX_COMPILER__stack_example_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/스택/stack_example.cpp || cmake_object_order_depends_target_stack_example
   DEP_FILE = CMakeFiles/stack_example.dir/바킹독_알고리즘/스택/stack_example.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/stack_example.dir
   OBJECT_FILE_DIR = CMakeFiles/stack_example.dir/바킹독_알고리즘/스택
 
@@ -1738,7 +1738,7 @@ build CMakeFiles/stack_example.dir/바킹독_알고리즘/스택/stack_example.c
 # Link the executable stack_example
 
 build stack_example: CXX_EXECUTABLE_LINKER__stack_example_Debug CMakeFiles/stack_example.dir/바킹독_알고리즘/스택/stack_example.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/stack_example.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1756,7 +1756,7 @@ build cmake_object_order_depends_target_10828: phony || CMakeFiles/10828.dir
 
 build CMakeFiles/10828.dir/바킹독_알고리즘/스택/10828.cpp.o: CXX_COMPILER__10828_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/스택/10828.cpp || cmake_object_order_depends_target_10828
   DEP_FILE = CMakeFiles/10828.dir/바킹독_알고리즘/스택/10828.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/10828.dir
   OBJECT_FILE_DIR = CMakeFiles/10828.dir/바킹독_알고리즘/스택
 
@@ -1769,7 +1769,7 @@ build CMakeFiles/10828.dir/바킹독_알고리즘/스택/10828.cpp.o: CXX_COMPIL
 # Link the executable 10828
 
 build 10828: CXX_EXECUTABLE_LINKER__10828_Debug CMakeFiles/10828.dir/바킹독_알고리즘/스택/10828.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/10828.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1787,7 +1787,7 @@ build cmake_object_order_depends_target_10828_1: phony || CMakeFiles/10828_1.dir
 
 build CMakeFiles/10828_1.dir/바킹독_알고리즘/스택/10828_1.cpp.o: CXX_COMPILER__10828_1_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/스택/10828_1.cpp || cmake_object_order_depends_target_10828_1
   DEP_FILE = CMakeFiles/10828_1.dir/바킹독_알고리즘/스택/10828_1.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/10828_1.dir
   OBJECT_FILE_DIR = CMakeFiles/10828_1.dir/바킹독_알고리즘/스택
 
@@ -1800,7 +1800,7 @@ build CMakeFiles/10828_1.dir/바킹독_알고리즘/스택/10828_1.cpp.o: CXX_CO
 # Link the executable 10828_1
 
 build 10828_1: CXX_EXECUTABLE_LINKER__10828_1_Debug CMakeFiles/10828_1.dir/바킹독_알고리즘/스택/10828_1.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/10828_1.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1818,7 +1818,7 @@ build cmake_object_order_depends_target_10773: phony || CMakeFiles/10773.dir
 
 build CMakeFiles/10773.dir/바킹독_알고리즘/스택/10773.cpp.o: CXX_COMPILER__10773_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/스택/10773.cpp || cmake_object_order_depends_target_10773
   DEP_FILE = CMakeFiles/10773.dir/바킹독_알고리즘/스택/10773.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/10773.dir
   OBJECT_FILE_DIR = CMakeFiles/10773.dir/바킹독_알고리즘/스택
 
@@ -1831,7 +1831,7 @@ build CMakeFiles/10773.dir/바킹독_알고리즘/스택/10773.cpp.o: CXX_COMPIL
 # Link the executable 10773
 
 build 10773: CXX_EXECUTABLE_LINKER__10773_Debug CMakeFiles/10773.dir/바킹독_알고리즘/스택/10773.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/10773.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1849,7 +1849,7 @@ build cmake_object_order_depends_target_1874: phony || CMakeFiles/1874.dir
 
 build CMakeFiles/1874.dir/바킹독_알고리즘/스택/1874.cpp.o: CXX_COMPILER__1874_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/스택/1874.cpp || cmake_object_order_depends_target_1874
   DEP_FILE = CMakeFiles/1874.dir/바킹독_알고리즘/스택/1874.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/1874.dir
   OBJECT_FILE_DIR = CMakeFiles/1874.dir/바킹독_알고리즘/스택
 
@@ -1862,7 +1862,7 @@ build CMakeFiles/1874.dir/바킹독_알고리즘/스택/1874.cpp.o: CXX_COMPILER
 # Link the executable 1874
 
 build 1874: CXX_EXECUTABLE_LINKER__1874_Debug CMakeFiles/1874.dir/바킹독_알고리즘/스택/1874.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/1874.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1880,7 +1880,7 @@ build cmake_object_order_depends_target_2493: phony || CMakeFiles/2493.dir
 
 build CMakeFiles/2493.dir/바킹독_알고리즘/스택/2493.cpp.o: CXX_COMPILER__2493_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/스택/2493.cpp || cmake_object_order_depends_target_2493
   DEP_FILE = CMakeFiles/2493.dir/바킹독_알고리즘/스택/2493.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/2493.dir
   OBJECT_FILE_DIR = CMakeFiles/2493.dir/바킹독_알고리즘/스택
 
@@ -1893,7 +1893,7 @@ build CMakeFiles/2493.dir/바킹독_알고리즘/스택/2493.cpp.o: CXX_COMPILER
 # Link the executable 2493
 
 build 2493: CXX_EXECUTABLE_LINKER__2493_Debug CMakeFiles/2493.dir/바킹독_알고리즘/스택/2493.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/2493.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1911,7 +1911,7 @@ build cmake_object_order_depends_target_6198: phony || CMakeFiles/6198.dir
 
 build CMakeFiles/6198.dir/바킹독_알고리즘/스택/6198.cpp.o: CXX_COMPILER__6198_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/스택/6198.cpp || cmake_object_order_depends_target_6198
   DEP_FILE = CMakeFiles/6198.dir/바킹독_알고리즘/스택/6198.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/6198.dir
   OBJECT_FILE_DIR = CMakeFiles/6198.dir/바킹독_알고리즘/스택
 
@@ -1924,7 +1924,7 @@ build CMakeFiles/6198.dir/바킹독_알고리즘/스택/6198.cpp.o: CXX_COMPILER
 # Link the executable 6198
 
 build 6198: CXX_EXECUTABLE_LINKER__6198_Debug CMakeFiles/6198.dir/바킹독_알고리즘/스택/6198.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/6198.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1942,7 +1942,7 @@ build cmake_object_order_depends_target_17298: phony || CMakeFiles/17298.dir
 
 build CMakeFiles/17298.dir/바킹독_알고리즘/스택/17298.cpp.o: CXX_COMPILER__17298_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/스택/17298.cpp || cmake_object_order_depends_target_17298
   DEP_FILE = CMakeFiles/17298.dir/바킹독_알고리즘/스택/17298.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/17298.dir
   OBJECT_FILE_DIR = CMakeFiles/17298.dir/바킹독_알고리즘/스택
 
@@ -1955,7 +1955,7 @@ build CMakeFiles/17298.dir/바킹독_알고리즘/스택/17298.cpp.o: CXX_COMPIL
 # Link the executable 17298
 
 build 17298: CXX_EXECUTABLE_LINKER__17298_Debug CMakeFiles/17298.dir/바킹독_알고리즘/스택/17298.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/17298.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1973,7 +1973,7 @@ build cmake_object_order_depends_target_3015: phony || CMakeFiles/3015.dir
 
 build CMakeFiles/3015.dir/바킹독_알고리즘/스택/3015.cpp.o: CXX_COMPILER__3015_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/스택/3015.cpp || cmake_object_order_depends_target_3015
   DEP_FILE = CMakeFiles/3015.dir/바킹독_알고리즘/스택/3015.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/3015.dir
   OBJECT_FILE_DIR = CMakeFiles/3015.dir/바킹독_알고리즘/스택
 
@@ -1986,7 +1986,7 @@ build CMakeFiles/3015.dir/바킹독_알고리즘/스택/3015.cpp.o: CXX_COMPILER
 # Link the executable 3015
 
 build 3015: CXX_EXECUTABLE_LINKER__3015_Debug CMakeFiles/3015.dir/바킹독_알고리즘/스택/3015.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/3015.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -2004,7 +2004,7 @@ build cmake_object_order_depends_target_6549: phony || CMakeFiles/6549.dir
 
 build CMakeFiles/6549.dir/바킹독_알고리즘/스택/6549.cpp.o: CXX_COMPILER__6549_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/스택/6549.cpp || cmake_object_order_depends_target_6549
   DEP_FILE = CMakeFiles/6549.dir/바킹독_알고리즘/스택/6549.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/6549.dir
   OBJECT_FILE_DIR = CMakeFiles/6549.dir/바킹독_알고리즘/스택
 
@@ -2017,7 +2017,7 @@ build CMakeFiles/6549.dir/바킹독_알고리즘/스택/6549.cpp.o: CXX_COMPILER
 # Link the executable 6549
 
 build 6549: CXX_EXECUTABLE_LINKER__6549_Debug CMakeFiles/6549.dir/바킹독_알고리즘/스택/6549.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/6549.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -2035,7 +2035,7 @@ build cmake_object_order_depends_target_1725: phony || CMakeFiles/1725.dir
 
 build CMakeFiles/1725.dir/바킹독_알고리즘/스택/1725.cpp.o: CXX_COMPILER__1725_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/스택/1725.cpp || cmake_object_order_depends_target_1725
   DEP_FILE = CMakeFiles/1725.dir/바킹독_알고리즘/스택/1725.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/1725.dir
   OBJECT_FILE_DIR = CMakeFiles/1725.dir/바킹독_알고리즘/스택
 
@@ -2048,7 +2048,7 @@ build CMakeFiles/1725.dir/바킹독_알고리즘/스택/1725.cpp.o: CXX_COMPILER
 # Link the executable 1725
 
 build 1725: CXX_EXECUTABLE_LINKER__1725_Debug CMakeFiles/1725.dir/바킹독_알고리즘/스택/1725.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/1725.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -2066,7 +2066,7 @@ build cmake_object_order_depends_target_queue_test: phony || CMakeFiles/queue_te
 
 build CMakeFiles/queue_test.dir/바킹독_알고리즘/큐/queue_test.cpp.o: CXX_COMPILER__queue_test_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/큐/queue_test.cpp || cmake_object_order_depends_target_queue_test
   DEP_FILE = CMakeFiles/queue_test.dir/바킹독_알고리즘/큐/queue_test.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/queue_test.dir
   OBJECT_FILE_DIR = CMakeFiles/queue_test.dir/바킹독_알고리즘/큐
 
@@ -2079,7 +2079,7 @@ build CMakeFiles/queue_test.dir/바킹독_알고리즘/큐/queue_test.cpp.o: CXX
 # Link the executable queue_test
 
 build queue_test: CXX_EXECUTABLE_LINKER__queue_test_Debug CMakeFiles/queue_test.dir/바킹독_알고리즘/큐/queue_test.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/queue_test.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -2097,7 +2097,7 @@ build cmake_object_order_depends_target_10845: phony || CMakeFiles/10845.dir
 
 build CMakeFiles/10845.dir/바킹독_알고리즘/큐/10845.cpp.o: CXX_COMPILER__10845_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/큐/10845.cpp || cmake_object_order_depends_target_10845
   DEP_FILE = CMakeFiles/10845.dir/바킹독_알고리즘/큐/10845.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/10845.dir
   OBJECT_FILE_DIR = CMakeFiles/10845.dir/바킹독_알고리즘/큐
 
@@ -2110,7 +2110,7 @@ build CMakeFiles/10845.dir/바킹독_알고리즘/큐/10845.cpp.o: CXX_COMPILER_
 # Link the executable 10845
 
 build 10845: CXX_EXECUTABLE_LINKER__10845_Debug CMakeFiles/10845.dir/바킹독_알고리즘/큐/10845.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/10845.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -2128,7 +2128,7 @@ build cmake_object_order_depends_target_10845_1: phony || CMakeFiles/10845_1.dir
 
 build CMakeFiles/10845_1.dir/바킹독_알고리즘/큐/10845_1.cpp.o: CXX_COMPILER__10845_1_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/큐/10845_1.cpp || cmake_object_order_depends_target_10845_1
   DEP_FILE = CMakeFiles/10845_1.dir/바킹독_알고리즘/큐/10845_1.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/10845_1.dir
   OBJECT_FILE_DIR = CMakeFiles/10845_1.dir/바킹독_알고리즘/큐
 
@@ -2141,7 +2141,7 @@ build CMakeFiles/10845_1.dir/바킹독_알고리즘/큐/10845_1.cpp.o: CXX_COMPI
 # Link the executable 10845_1
 
 build 10845_1: CXX_EXECUTABLE_LINKER__10845_1_Debug CMakeFiles/10845_1.dir/바킹독_알고리즘/큐/10845_1.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/10845_1.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -2159,7 +2159,7 @@ build cmake_object_order_depends_target_18258: phony || CMakeFiles/18258.dir
 
 build CMakeFiles/18258.dir/바킹독_알고리즘/큐/18258.cpp.o: CXX_COMPILER__18258_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/큐/18258.cpp || cmake_object_order_depends_target_18258
   DEP_FILE = CMakeFiles/18258.dir/바킹독_알고리즘/큐/18258.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/18258.dir
   OBJECT_FILE_DIR = CMakeFiles/18258.dir/바킹독_알고리즘/큐
 
@@ -2172,7 +2172,7 @@ build CMakeFiles/18258.dir/바킹독_알고리즘/큐/18258.cpp.o: CXX_COMPILER_
 # Link the executable 18258
 
 build 18258: CXX_EXECUTABLE_LINKER__18258_Debug CMakeFiles/18258.dir/바킹독_알고리즘/큐/18258.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/18258.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -2190,7 +2190,7 @@ build cmake_object_order_depends_target_18258_1: phony || CMakeFiles/18258_1.dir
 
 build CMakeFiles/18258_1.dir/바킹독_알고리즘/큐/18258_1.cpp.o: CXX_COMPILER__18258_1_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/큐/18258_1.cpp || cmake_object_order_depends_target_18258_1
   DEP_FILE = CMakeFiles/18258_1.dir/바킹독_알고리즘/큐/18258_1.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/18258_1.dir
   OBJECT_FILE_DIR = CMakeFiles/18258_1.dir/바킹독_알고리즘/큐
 
@@ -2203,7 +2203,7 @@ build CMakeFiles/18258_1.dir/바킹독_알고리즘/큐/18258_1.cpp.o: CXX_COMPI
 # Link the executable 18258_1
 
 build 18258_1: CXX_EXECUTABLE_LINKER__18258_1_Debug CMakeFiles/18258_1.dir/바킹독_알고리즘/큐/18258_1.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/18258_1.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -2221,7 +2221,7 @@ build cmake_object_order_depends_target_2164: phony || CMakeFiles/2164.dir
 
 build CMakeFiles/2164.dir/백준/2023-11-05/2164.cpp.o: CXX_COMPILER__2164_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-05/2164.cpp || cmake_object_order_depends_target_2164
   DEP_FILE = CMakeFiles/2164.dir/백준/2023-11-05/2164.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/2164.dir
   OBJECT_FILE_DIR = CMakeFiles/2164.dir/백준/2023-11-05
 
@@ -2234,7 +2234,7 @@ build CMakeFiles/2164.dir/백준/2023-11-05/2164.cpp.o: CXX_COMPILER__2164_unsca
 # Link the executable 2164
 
 build 2164: CXX_EXECUTABLE_LINKER__2164_Debug CMakeFiles/2164.dir/백준/2023-11-05/2164.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/2164.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -2252,7 +2252,7 @@ build cmake_object_order_depends_target_queue_example: phony || CMakeFiles/queue
 
 build CMakeFiles/queue_example.dir/바킹독_알고리즘/큐/queue_example.cpp.o: CXX_COMPILER__queue_example_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/큐/queue_example.cpp || cmake_object_order_depends_target_queue_example
   DEP_FILE = CMakeFiles/queue_example.dir/바킹독_알고리즘/큐/queue_example.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/queue_example.dir
   OBJECT_FILE_DIR = CMakeFiles/queue_example.dir/바킹독_알고리즘/큐
 
@@ -2265,7 +2265,7 @@ build CMakeFiles/queue_example.dir/바킹독_알고리즘/큐/queue_example.cpp.
 # Link the executable queue_example
 
 build queue_example: CXX_EXECUTABLE_LINKER__queue_example_Debug CMakeFiles/queue_example.dir/바킹독_알고리즘/큐/queue_example.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/queue_example.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -2283,7 +2283,7 @@ build cmake_object_order_depends_target_deque_test: phony || CMakeFiles/deque_te
 
 build CMakeFiles/deque_test.dir/바킹독_알고리즘/덱/deque_test.cpp.o: CXX_COMPILER__deque_test_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/덱/deque_test.cpp || cmake_object_order_depends_target_deque_test
   DEP_FILE = CMakeFiles/deque_test.dir/바킹독_알고리즘/덱/deque_test.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/deque_test.dir
   OBJECT_FILE_DIR = CMakeFiles/deque_test.dir/바킹독_알고리즘/덱
 
@@ -2296,7 +2296,7 @@ build CMakeFiles/deque_test.dir/바킹독_알고리즘/덱/deque_test.cpp.o: CXX
 # Link the executable deque_test
 
 build deque_test: CXX_EXECUTABLE_LINKER__deque_test_Debug CMakeFiles/deque_test.dir/바킹독_알고리즘/덱/deque_test.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/deque_test.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -2314,7 +2314,7 @@ build cmake_object_order_depends_target_deque_example: phony || CMakeFiles/deque
 
 build CMakeFiles/deque_example.dir/바킹독_알고리즘/덱/deque_example.cpp.o: CXX_COMPILER__deque_example_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/덱/deque_example.cpp || cmake_object_order_depends_target_deque_example
   DEP_FILE = CMakeFiles/deque_example.dir/바킹독_알고리즘/덱/deque_example.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/deque_example.dir
   OBJECT_FILE_DIR = CMakeFiles/deque_example.dir/바킹독_알고리즘/덱
 
@@ -2327,7 +2327,7 @@ build CMakeFiles/deque_example.dir/바킹독_알고리즘/덱/deque_example.cpp.
 # Link the executable deque_example
 
 build deque_example: CXX_EXECUTABLE_LINKER__deque_example_Debug CMakeFiles/deque_example.dir/바킹독_알고리즘/덱/deque_example.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/deque_example.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -2345,7 +2345,7 @@ build cmake_object_order_depends_target_10866: phony || CMakeFiles/10866.dir
 
 build CMakeFiles/10866.dir/바킹독_알고리즘/덱/10866.cpp.o: CXX_COMPILER__10866_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/덱/10866.cpp || cmake_object_order_depends_target_10866
   DEP_FILE = CMakeFiles/10866.dir/바킹독_알고리즘/덱/10866.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/10866.dir
   OBJECT_FILE_DIR = CMakeFiles/10866.dir/바킹독_알고리즘/덱
 
@@ -2358,7 +2358,7 @@ build CMakeFiles/10866.dir/바킹독_알고리즘/덱/10866.cpp.o: CXX_COMPILER_
 # Link the executable 10866
 
 build 10866: CXX_EXECUTABLE_LINKER__10866_Debug CMakeFiles/10866.dir/바킹독_알고리즘/덱/10866.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/10866.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -2376,7 +2376,7 @@ build cmake_object_order_depends_target_10866_1: phony || CMakeFiles/10866_1.dir
 
 build CMakeFiles/10866_1.dir/바킹독_알고리즘/덱/10866_1.cpp.o: CXX_COMPILER__10866_1_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/덱/10866_1.cpp || cmake_object_order_depends_target_10866_1
   DEP_FILE = CMakeFiles/10866_1.dir/바킹독_알고리즘/덱/10866_1.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/10866_1.dir
   OBJECT_FILE_DIR = CMakeFiles/10866_1.dir/바킹독_알고리즘/덱
 
@@ -2389,7 +2389,7 @@ build CMakeFiles/10866_1.dir/바킹독_알고리즘/덱/10866_1.cpp.o: CXX_COMPI
 # Link the executable 10866_1
 
 build 10866_1: CXX_EXECUTABLE_LINKER__10866_1_Debug CMakeFiles/10866_1.dir/바킹독_알고리즘/덱/10866_1.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/10866_1.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -2407,7 +2407,7 @@ build cmake_object_order_depends_target_1021: phony || CMakeFiles/1021.dir
 
 build CMakeFiles/1021.dir/바킹독_알고리즘/덱/1021.cpp.o: CXX_COMPILER__1021_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/덱/1021.cpp || cmake_object_order_depends_target_1021
   DEP_FILE = CMakeFiles/1021.dir/바킹독_알고리즘/덱/1021.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/1021.dir
   OBJECT_FILE_DIR = CMakeFiles/1021.dir/바킹독_알고리즘/덱
 
@@ -2420,7 +2420,7 @@ build CMakeFiles/1021.dir/바킹독_알고리즘/덱/1021.cpp.o: CXX_COMPILER__1
 # Link the executable 1021
 
 build 1021: CXX_EXECUTABLE_LINKER__1021_Debug CMakeFiles/1021.dir/바킹독_알고리즘/덱/1021.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/1021.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -2438,7 +2438,7 @@ build cmake_object_order_depends_target_5430: phony || CMakeFiles/5430.dir
 
 build CMakeFiles/5430.dir/바킹독_알고리즘/덱/5430.cpp.o: CXX_COMPILER__5430_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/덱/5430.cpp || cmake_object_order_depends_target_5430
   DEP_FILE = CMakeFiles/5430.dir/바킹독_알고리즘/덱/5430.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/5430.dir
   OBJECT_FILE_DIR = CMakeFiles/5430.dir/바킹독_알고리즘/덱
 
@@ -2451,7 +2451,7 @@ build CMakeFiles/5430.dir/바킹독_알고리즘/덱/5430.cpp.o: CXX_COMPILER__5
 # Link the executable 5430
 
 build 5430: CXX_EXECUTABLE_LINKER__5430_Debug CMakeFiles/5430.dir/바킹독_알고리즘/덱/5430.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/5430.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -2469,7 +2469,7 @@ build cmake_object_order_depends_target_11003: phony || CMakeFiles/11003.dir
 
 build CMakeFiles/11003.dir/바킹독_알고리즘/덱/11003.cpp.o: CXX_COMPILER__11003_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/덱/11003.cpp || cmake_object_order_depends_target_11003
   DEP_FILE = CMakeFiles/11003.dir/바킹독_알고리즘/덱/11003.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/11003.dir
   OBJECT_FILE_DIR = CMakeFiles/11003.dir/바킹독_알고리즘/덱
 
@@ -2482,7 +2482,7 @@ build CMakeFiles/11003.dir/바킹독_알고리즘/덱/11003.cpp.o: CXX_COMPILER_
 # Link the executable 11003
 
 build 11003: CXX_EXECUTABLE_LINKER__11003_Debug CMakeFiles/11003.dir/바킹독_알고리즘/덱/11003.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/11003.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -2500,7 +2500,7 @@ build cmake_object_order_depends_target_4949: phony || CMakeFiles/4949.dir
 
 build CMakeFiles/4949.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)/4949.cpp.o: CXX_COMPILER__4949_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/스택의$ 활용(수식의$ 괄호$ 쌍)/4949.cpp || cmake_object_order_depends_target_4949
   DEP_FILE = "CMakeFiles/4949.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)/4949.cpp.o.d"
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/4949.dir
   OBJECT_FILE_DIR = "CMakeFiles/4949.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)"
 
@@ -2513,7 +2513,7 @@ build CMakeFiles/4949.dir/바킹독_알고리즘/스택의_활용(수식의_괄�
 # Link the executable 4949
 
 build 4949: CXX_EXECUTABLE_LINKER__4949_Debug CMakeFiles/4949.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)/4949.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/4949.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -2531,7 +2531,7 @@ build cmake_object_order_depends_target_3986: phony || CMakeFiles/3986.dir
 
 build CMakeFiles/3986.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)/3986.cpp.o: CXX_COMPILER__3986_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/스택의$ 활용(수식의$ 괄호$ 쌍)/3986.cpp || cmake_object_order_depends_target_3986
   DEP_FILE = "CMakeFiles/3986.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)/3986.cpp.o.d"
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/3986.dir
   OBJECT_FILE_DIR = "CMakeFiles/3986.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)"
 
@@ -2544,7 +2544,7 @@ build CMakeFiles/3986.dir/바킹독_알고리즘/스택의_활용(수식의_괄�
 # Link the executable 3986
 
 build 3986: CXX_EXECUTABLE_LINKER__3986_Debug CMakeFiles/3986.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)/3986.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/3986.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -2562,7 +2562,7 @@ build cmake_object_order_depends_target_9012: phony || CMakeFiles/9012.dir
 
 build CMakeFiles/9012.dir/백준/2023-11-05/9375.cpp.o: CXX_COMPILER__9012_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-05/9375.cpp || cmake_object_order_depends_target_9012
   DEP_FILE = CMakeFiles/9012.dir/백준/2023-11-05/9375.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/9012.dir
   OBJECT_FILE_DIR = CMakeFiles/9012.dir/백준/2023-11-05
 
@@ -2575,7 +2575,7 @@ build CMakeFiles/9012.dir/백준/2023-11-05/9375.cpp.o: CXX_COMPILER__9012_unsca
 # Link the executable 9012
 
 build 9012: CXX_EXECUTABLE_LINKER__9012_Debug CMakeFiles/9012.dir/백준/2023-11-05/9375.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/9012.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -2593,7 +2593,7 @@ build cmake_object_order_depends_target_10799: phony || CMakeFiles/10799.dir
 
 build CMakeFiles/10799.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)/10799.cpp.o: CXX_COMPILER__10799_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/스택의$ 활용(수식의$ 괄호$ 쌍)/10799.cpp || cmake_object_order_depends_target_10799
   DEP_FILE = "CMakeFiles/10799.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)/10799.cpp.o.d"
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/10799.dir
   OBJECT_FILE_DIR = "CMakeFiles/10799.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)"
 
@@ -2606,7 +2606,7 @@ build CMakeFiles/10799.dir/바킹독_알고리즘/스택의_활용(수식의_괄
 # Link the executable 10799
 
 build 10799: CXX_EXECUTABLE_LINKER__10799_Debug CMakeFiles/10799.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)/10799.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/10799.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -2624,7 +2624,7 @@ build cmake_object_order_depends_target_2504: phony || CMakeFiles/2504.dir
 
 build CMakeFiles/2504.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)/2504.cpp.o: CXX_COMPILER__2504_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/스택의$ 활용(수식의$ 괄호$ 쌍)/2504.cpp || cmake_object_order_depends_target_2504
   DEP_FILE = "CMakeFiles/2504.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)/2504.cpp.o.d"
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/2504.dir
   OBJECT_FILE_DIR = "CMakeFiles/2504.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)"
 
@@ -2637,7 +2637,7 @@ build CMakeFiles/2504.dir/바킹독_알고리즘/스택의_활용(수식의_괄�
 # Link the executable 2504
 
 build 2504: CXX_EXECUTABLE_LINKER__2504_Debug CMakeFiles/2504.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)/2504.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/2504.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -2655,7 +2655,7 @@ build cmake_object_order_depends_target_2504_1: phony || CMakeFiles/2504_1.dir
 
 build CMakeFiles/2504_1.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)/2504_1.cpp.o: CXX_COMPILER__2504_1_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/스택의$ 활용(수식의$ 괄호$ 쌍)/2504_1.cpp || cmake_object_order_depends_target_2504_1
   DEP_FILE = "CMakeFiles/2504_1.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)/2504_1.cpp.o.d"
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/2504_1.dir
   OBJECT_FILE_DIR = "CMakeFiles/2504_1.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)"
 
@@ -2668,7 +2668,7 @@ build CMakeFiles/2504_1.dir/바킹독_알고리즘/스택의_활용(수식의_�
 # Link the executable 2504_1
 
 build 2504_1: CXX_EXECUTABLE_LINKER__2504_1_Debug CMakeFiles/2504_1.dir/바킹독_알고리즘/스택의_활용(수식의_괄호_쌍)/2504_1.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/2504_1.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -2686,7 +2686,7 @@ build cmake_object_order_depends_target_1269: phony || CMakeFiles/1269.dir
 
 build CMakeFiles/1269.dir/백준/2023-11-02/1269.cpp.o: CXX_COMPILER__1269_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-02/1269.cpp || cmake_object_order_depends_target_1269
   DEP_FILE = CMakeFiles/1269.dir/백준/2023-11-02/1269.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/1269.dir
   OBJECT_FILE_DIR = CMakeFiles/1269.dir/백준/2023-11-02
 
@@ -2699,7 +2699,7 @@ build CMakeFiles/1269.dir/백준/2023-11-02/1269.cpp.o: CXX_COMPILER__1269_unsca
 # Link the executable 1269
 
 build 1269: CXX_EXECUTABLE_LINKER__1269_Debug CMakeFiles/1269.dir/백준/2023-11-02/1269.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/1269.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -2717,7 +2717,7 @@ build cmake_object_order_depends_target_1302: phony || CMakeFiles/1302.dir
 
 build CMakeFiles/1302.dir/백준/2023-11-02/1302.cpp.o: CXX_COMPILER__1302_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-02/1302.cpp || cmake_object_order_depends_target_1302
   DEP_FILE = CMakeFiles/1302.dir/백준/2023-11-02/1302.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/1302.dir
   OBJECT_FILE_DIR = CMakeFiles/1302.dir/백준/2023-11-02
 
@@ -2730,7 +2730,7 @@ build CMakeFiles/1302.dir/백준/2023-11-02/1302.cpp.o: CXX_COMPILER__1302_unsca
 # Link the executable 1302
 
 build 1302: CXX_EXECUTABLE_LINKER__1302_Debug CMakeFiles/1302.dir/백준/2023-11-02/1302.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/1302.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -2748,7 +2748,7 @@ build cmake_object_order_depends_target_1417: phony || CMakeFiles/1417.dir
 
 build CMakeFiles/1417.dir/백준/2023-11-02/1417.cpp.o: CXX_COMPILER__1417_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-02/1417.cpp || cmake_object_order_depends_target_1417
   DEP_FILE = CMakeFiles/1417.dir/백준/2023-11-02/1417.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/1417.dir
   OBJECT_FILE_DIR = CMakeFiles/1417.dir/백준/2023-11-02
 
@@ -2761,7 +2761,7 @@ build CMakeFiles/1417.dir/백준/2023-11-02/1417.cpp.o: CXX_COMPILER__1417_unsca
 # Link the executable 1417
 
 build 1417: CXX_EXECUTABLE_LINKER__1417_Debug CMakeFiles/1417.dir/백준/2023-11-02/1417.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/1417.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -2779,7 +2779,7 @@ build cmake_object_order_depends_target_1620: phony || CMakeFiles/1620.dir
 
 build CMakeFiles/1620.dir/백준/2023-11-02/1620.cpp.o: CXX_COMPILER__1620_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-02/1620.cpp || cmake_object_order_depends_target_1620
   DEP_FILE = CMakeFiles/1620.dir/백준/2023-11-02/1620.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/1620.dir
   OBJECT_FILE_DIR = CMakeFiles/1620.dir/백준/2023-11-02
 
@@ -2792,7 +2792,7 @@ build CMakeFiles/1620.dir/백준/2023-11-02/1620.cpp.o: CXX_COMPILER__1620_unsca
 # Link the executable 1620
 
 build 1620: CXX_EXECUTABLE_LINKER__1620_Debug CMakeFiles/1620.dir/백준/2023-11-02/1620.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/1620.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -2810,7 +2810,7 @@ build cmake_object_order_depends_target_1655: phony || CMakeFiles/1655.dir
 
 build CMakeFiles/1655.dir/백준/2023-11-02/1655.cpp.o: CXX_COMPILER__1655_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-02/1655.cpp || cmake_object_order_depends_target_1655
   DEP_FILE = CMakeFiles/1655.dir/백준/2023-11-02/1655.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/1655.dir
   OBJECT_FILE_DIR = CMakeFiles/1655.dir/백준/2023-11-02
 
@@ -2823,7 +2823,7 @@ build CMakeFiles/1655.dir/백준/2023-11-02/1655.cpp.o: CXX_COMPILER__1655_unsca
 # Link the executable 1655
 
 build 1655: CXX_EXECUTABLE_LINKER__1655_Debug CMakeFiles/1655.dir/백준/2023-11-02/1655.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/1655.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -2841,7 +2841,7 @@ build cmake_object_order_depends_target_1715: phony || CMakeFiles/1715.dir
 
 build CMakeFiles/1715.dir/백준/2023-11-02/1715.cpp.o: CXX_COMPILER__1715_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-02/1715.cpp || cmake_object_order_depends_target_1715
   DEP_FILE = CMakeFiles/1715.dir/백준/2023-11-02/1715.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/1715.dir
   OBJECT_FILE_DIR = CMakeFiles/1715.dir/백준/2023-11-02
 
@@ -2854,7 +2854,7 @@ build CMakeFiles/1715.dir/백준/2023-11-02/1715.cpp.o: CXX_COMPILER__1715_unsca
 # Link the executable 1715
 
 build 1715: CXX_EXECUTABLE_LINKER__1715_Debug CMakeFiles/1715.dir/백준/2023-11-02/1715.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/1715.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -2872,7 +2872,7 @@ build cmake_object_order_depends_target_1717: phony || CMakeFiles/1717.dir
 
 build CMakeFiles/1717.dir/백준/2023-11-02/1717.cpp.o: CXX_COMPILER__1717_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-02/1717.cpp || cmake_object_order_depends_target_1717
   DEP_FILE = CMakeFiles/1717.dir/백준/2023-11-02/1717.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/1717.dir
   OBJECT_FILE_DIR = CMakeFiles/1717.dir/백준/2023-11-02
 
@@ -2885,7 +2885,7 @@ build CMakeFiles/1717.dir/백준/2023-11-02/1717.cpp.o: CXX_COMPILER__1717_unsca
 # Link the executable 1717
 
 build 1717: CXX_EXECUTABLE_LINKER__1717_Debug CMakeFiles/1717.dir/백준/2023-11-02/1717.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/1717.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -2903,7 +2903,7 @@ build cmake_object_order_depends_target_1764: phony || CMakeFiles/1764.dir
 
 build CMakeFiles/1764.dir/백준/2023-11-02/1764.cpp.o: CXX_COMPILER__1764_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-02/1764.cpp || cmake_object_order_depends_target_1764
   DEP_FILE = CMakeFiles/1764.dir/백준/2023-11-02/1764.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/1764.dir
   OBJECT_FILE_DIR = CMakeFiles/1764.dir/백준/2023-11-02
 
@@ -2916,7 +2916,7 @@ build CMakeFiles/1764.dir/백준/2023-11-02/1764.cpp.o: CXX_COMPILER__1764_unsca
 # Link the executable 1764
 
 build 1764: CXX_EXECUTABLE_LINKER__1764_Debug CMakeFiles/1764.dir/백준/2023-11-02/1764.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/1764.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -2934,7 +2934,7 @@ build cmake_object_order_depends_target_1918: phony || CMakeFiles/1918.dir
 
 build CMakeFiles/1918.dir/백준/2023-11-02/1918.cpp.o: CXX_COMPILER__1918_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-02/1918.cpp || cmake_object_order_depends_target_1918
   DEP_FILE = CMakeFiles/1918.dir/백준/2023-11-02/1918.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/1918.dir
   OBJECT_FILE_DIR = CMakeFiles/1918.dir/백준/2023-11-02
 
@@ -2947,7 +2947,7 @@ build CMakeFiles/1918.dir/백준/2023-11-02/1918.cpp.o: CXX_COMPILER__1918_unsca
 # Link the executable 1918
 
 build 1918: CXX_EXECUTABLE_LINKER__1918_Debug CMakeFiles/1918.dir/백준/2023-11-02/1918.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/1918.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -2965,7 +2965,7 @@ build cmake_object_order_depends_target_1920: phony || CMakeFiles/1920.dir
 
 build CMakeFiles/1920.dir/백준/2023-11-02/1920.cpp.o: CXX_COMPILER__1920_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-02/1920.cpp || cmake_object_order_depends_target_1920
   DEP_FILE = CMakeFiles/1920.dir/백준/2023-11-02/1920.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/1920.dir
   OBJECT_FILE_DIR = CMakeFiles/1920.dir/백준/2023-11-02
 
@@ -2978,7 +2978,7 @@ build CMakeFiles/1920.dir/백준/2023-11-02/1920.cpp.o: CXX_COMPILER__1920_unsca
 # Link the executable 1920
 
 build 1920: CXX_EXECUTABLE_LINKER__1920_Debug CMakeFiles/1920.dir/백준/2023-11-02/1920.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/1920.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -2996,7 +2996,7 @@ build cmake_object_order_depends_target_1920_1: phony || CMakeFiles/1920_1.dir
 
 build CMakeFiles/1920_1.dir/백준/2023-11-02/1920_1.cpp.o: CXX_COMPILER__1920_1_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-02/1920_1.cpp || cmake_object_order_depends_target_1920_1
   DEP_FILE = CMakeFiles/1920_1.dir/백준/2023-11-02/1920_1.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/1920_1.dir
   OBJECT_FILE_DIR = CMakeFiles/1920_1.dir/백준/2023-11-02
 
@@ -3009,7 +3009,7 @@ build CMakeFiles/1920_1.dir/백준/2023-11-02/1920_1.cpp.o: CXX_COMPILER__1920_1
 # Link the executable 1920_1
 
 build 1920_1: CXX_EXECUTABLE_LINKER__1920_1_Debug CMakeFiles/1920_1.dir/백준/2023-11-02/1920_1.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/1920_1.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -3027,7 +3027,7 @@ build cmake_object_order_depends_target_1927: phony || CMakeFiles/1927.dir
 
 build CMakeFiles/1927.dir/백준/2023-11-05/1927.cpp.o: CXX_COMPILER__1927_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-05/1927.cpp || cmake_object_order_depends_target_1927
   DEP_FILE = CMakeFiles/1927.dir/백준/2023-11-05/1927.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/1927.dir
   OBJECT_FILE_DIR = CMakeFiles/1927.dir/백준/2023-11-05
 
@@ -3040,7 +3040,7 @@ build CMakeFiles/1927.dir/백준/2023-11-05/1927.cpp.o: CXX_COMPILER__1927_unsca
 # Link the executable 1927
 
 build 1927: CXX_EXECUTABLE_LINKER__1927_Debug CMakeFiles/1927.dir/백준/2023-11-05/1927.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/1927.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -3058,7 +3058,7 @@ build cmake_object_order_depends_target_2042: phony || CMakeFiles/2042.dir
 
 build CMakeFiles/2042.dir/백준/2023-11-05/2042.cpp.o: CXX_COMPILER__2042_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-05/2042.cpp || cmake_object_order_depends_target_2042
   DEP_FILE = CMakeFiles/2042.dir/백준/2023-11-05/2042.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/2042.dir
   OBJECT_FILE_DIR = CMakeFiles/2042.dir/백준/2023-11-05
 
@@ -3071,7 +3071,7 @@ build CMakeFiles/2042.dir/백준/2023-11-05/2042.cpp.o: CXX_COMPILER__2042_unsca
 # Link the executable 2042
 
 build 2042: CXX_EXECUTABLE_LINKER__2042_Debug CMakeFiles/2042.dir/백준/2023-11-05/2042.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/2042.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -3089,7 +3089,7 @@ build cmake_object_order_depends_target_2161: phony || CMakeFiles/2161.dir
 
 build CMakeFiles/2161.dir/백준/2023-11-05/2161.cpp.o: CXX_COMPILER__2161_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-05/2161.cpp || cmake_object_order_depends_target_2161
   DEP_FILE = CMakeFiles/2161.dir/백준/2023-11-05/2161.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/2161.dir
   OBJECT_FILE_DIR = CMakeFiles/2161.dir/백준/2023-11-05
 
@@ -3102,7 +3102,7 @@ build CMakeFiles/2161.dir/백준/2023-11-05/2161.cpp.o: CXX_COMPILER__2161_unsca
 # Link the executable 2161
 
 build 2161: CXX_EXECUTABLE_LINKER__2161_Debug CMakeFiles/2161.dir/백준/2023-11-05/2161.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/2161.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -3120,7 +3120,7 @@ build cmake_object_order_depends_target_7785: phony || CMakeFiles/7785.dir
 
 build CMakeFiles/7785.dir/백준/2023-11-05/7785.cpp.o: CXX_COMPILER__7785_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-05/7785.cpp || cmake_object_order_depends_target_7785
   DEP_FILE = CMakeFiles/7785.dir/백준/2023-11-05/7785.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/7785.dir
   OBJECT_FILE_DIR = CMakeFiles/7785.dir/백준/2023-11-05
 
@@ -3133,7 +3133,7 @@ build CMakeFiles/7785.dir/백준/2023-11-05/7785.cpp.o: CXX_COMPILER__7785_unsca
 # Link the executable 7785
 
 build 7785: CXX_EXECUTABLE_LINKER__7785_Debug CMakeFiles/7785.dir/백준/2023-11-05/7785.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/7785.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -3151,7 +3151,7 @@ build cmake_object_order_depends_target_10815: phony || CMakeFiles/10815.dir
 
 build CMakeFiles/10815.dir/백준/2023-11-05/10815.cpp.o: CXX_COMPILER__10815_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-05/10815.cpp || cmake_object_order_depends_target_10815
   DEP_FILE = CMakeFiles/10815.dir/백준/2023-11-05/10815.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/10815.dir
   OBJECT_FILE_DIR = CMakeFiles/10815.dir/백준/2023-11-05
 
@@ -3164,7 +3164,7 @@ build CMakeFiles/10815.dir/백준/2023-11-05/10815.cpp.o: CXX_COMPILER__10815_un
 # Link the executable 10815
 
 build 10815: CXX_EXECUTABLE_LINKER__10815_Debug CMakeFiles/10815.dir/백준/2023-11-05/10815.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/10815.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -3182,7 +3182,7 @@ build cmake_object_order_depends_target_10816: phony || CMakeFiles/10816.dir
 
 build CMakeFiles/10816.dir/백준/2023-11-05/10816.cpp.o: CXX_COMPILER__10816_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-05/10816.cpp || cmake_object_order_depends_target_10816
   DEP_FILE = CMakeFiles/10816.dir/백준/2023-11-05/10816.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/10816.dir
   OBJECT_FILE_DIR = CMakeFiles/10816.dir/백준/2023-11-05
 
@@ -3195,7 +3195,7 @@ build CMakeFiles/10816.dir/백준/2023-11-05/10816.cpp.o: CXX_COMPILER__10816_un
 # Link the executable 10816
 
 build 10816: CXX_EXECUTABLE_LINKER__10816_Debug CMakeFiles/10816.dir/백준/2023-11-05/10816.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/10816.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -3213,7 +3213,7 @@ build cmake_object_order_depends_target_10815_1: phony || CMakeFiles/10815_1.dir
 
 build CMakeFiles/10815_1.dir/백준/2023-11-05/10815_1.cpp.o: CXX_COMPILER__10815_1_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-05/10815_1.cpp || cmake_object_order_depends_target_10815_1
   DEP_FILE = CMakeFiles/10815_1.dir/백준/2023-11-05/10815_1.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/10815_1.dir
   OBJECT_FILE_DIR = CMakeFiles/10815_1.dir/백준/2023-11-05
 
@@ -3226,7 +3226,7 @@ build CMakeFiles/10815_1.dir/백준/2023-11-05/10815_1.cpp.o: CXX_COMPILER__1081
 # Link the executable 10815_1
 
 build 10815_1: CXX_EXECUTABLE_LINKER__10815_1_Debug CMakeFiles/10815_1.dir/백준/2023-11-05/10815_1.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/10815_1.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -3244,7 +3244,7 @@ build cmake_object_order_depends_target_10816_1: phony || CMakeFiles/10816_1.dir
 
 build CMakeFiles/10816_1.dir/백준/2023-11-05/10816_1.cpp.o: CXX_COMPILER__10816_1_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-05/10816_1.cpp || cmake_object_order_depends_target_10816_1
   DEP_FILE = CMakeFiles/10816_1.dir/백준/2023-11-05/10816_1.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/10816_1.dir
   OBJECT_FILE_DIR = CMakeFiles/10816_1.dir/백준/2023-11-05
 
@@ -3257,7 +3257,7 @@ build CMakeFiles/10816_1.dir/백준/2023-11-05/10816_1.cpp.o: CXX_COMPILER__1081
 # Link the executable 10816_1
 
 build 10816_1: CXX_EXECUTABLE_LINKER__10816_1_Debug CMakeFiles/10816_1.dir/백준/2023-11-05/10816_1.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/10816_1.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -3275,7 +3275,7 @@ build cmake_object_order_depends_target_11279: phony || CMakeFiles/11279.dir
 
 build CMakeFiles/11279.dir/백준/2023-11-05/11279.cpp.o: CXX_COMPILER__11279_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-05/11279.cpp || cmake_object_order_depends_target_11279
   DEP_FILE = CMakeFiles/11279.dir/백준/2023-11-05/11279.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/11279.dir
   OBJECT_FILE_DIR = CMakeFiles/11279.dir/백준/2023-11-05
 
@@ -3288,7 +3288,7 @@ build CMakeFiles/11279.dir/백준/2023-11-05/11279.cpp.o: CXX_COMPILER__11279_un
 # Link the executable 11279
 
 build 11279: CXX_EXECUTABLE_LINKER__11279_Debug CMakeFiles/11279.dir/백준/2023-11-05/11279.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/11279.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -3306,7 +3306,7 @@ build cmake_object_order_depends_target_11286: phony || CMakeFiles/11286.dir
 
 build CMakeFiles/11286.dir/백준/2023-11-05/11286.cpp.o: CXX_COMPILER__11286_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-05/11286.cpp || cmake_object_order_depends_target_11286
   DEP_FILE = CMakeFiles/11286.dir/백준/2023-11-05/11286.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/11286.dir
   OBJECT_FILE_DIR = CMakeFiles/11286.dir/백준/2023-11-05
 
@@ -3319,7 +3319,7 @@ build CMakeFiles/11286.dir/백준/2023-11-05/11286.cpp.o: CXX_COMPILER__11286_un
 # Link the executable 11286
 
 build 11286: CXX_EXECUTABLE_LINKER__11286_Debug CMakeFiles/11286.dir/백준/2023-11-05/11286.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/11286.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -3337,7 +3337,7 @@ build cmake_object_order_depends_target_11478: phony || CMakeFiles/11478.dir
 
 build CMakeFiles/11478.dir/백준/2023-11-05/11478.cpp.o: CXX_COMPILER__11478_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-05/11478.cpp || cmake_object_order_depends_target_11478
   DEP_FILE = CMakeFiles/11478.dir/백준/2023-11-05/11478.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/11478.dir
   OBJECT_FILE_DIR = CMakeFiles/11478.dir/백준/2023-11-05
 
@@ -3350,7 +3350,7 @@ build CMakeFiles/11478.dir/백준/2023-11-05/11478.cpp.o: CXX_COMPILER__11478_un
 # Link the executable 11478
 
 build 11478: CXX_EXECUTABLE_LINKER__11478_Debug CMakeFiles/11478.dir/백준/2023-11-05/11478.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/11478.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -3368,7 +3368,7 @@ build cmake_object_order_depends_target_11866: phony || CMakeFiles/11866.dir
 
 build CMakeFiles/11866.dir/백준/2023-11-05/11866.cpp.o: CXX_COMPILER__11866_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-05/11866.cpp || cmake_object_order_depends_target_11866
   DEP_FILE = CMakeFiles/11866.dir/백준/2023-11-05/11866.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/11866.dir
   OBJECT_FILE_DIR = CMakeFiles/11866.dir/백준/2023-11-05
 
@@ -3381,7 +3381,7 @@ build CMakeFiles/11866.dir/백준/2023-11-05/11866.cpp.o: CXX_COMPILER__11866_un
 # Link the executable 11866
 
 build 11866: CXX_EXECUTABLE_LINKER__11866_Debug CMakeFiles/11866.dir/백준/2023-11-05/11866.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/11866.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -3399,7 +3399,7 @@ build cmake_object_order_depends_target_14425: phony || CMakeFiles/14425.dir
 
 build CMakeFiles/14425.dir/백준/2023-11-05/14425.cpp.o: CXX_COMPILER__14425_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-05/14425.cpp || cmake_object_order_depends_target_14425
   DEP_FILE = CMakeFiles/14425.dir/백준/2023-11-05/14425.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/14425.dir
   OBJECT_FILE_DIR = CMakeFiles/14425.dir/백준/2023-11-05
 
@@ -3412,7 +3412,7 @@ build CMakeFiles/14425.dir/백준/2023-11-05/14425.cpp.o: CXX_COMPILER__14425_un
 # Link the executable 14425
 
 build 14425: CXX_EXECUTABLE_LINKER__14425_Debug CMakeFiles/14425.dir/백준/2023-11-05/14425.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/14425.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -3430,7 +3430,7 @@ build cmake_object_order_depends_target_17219: phony || CMakeFiles/17219.dir
 
 build CMakeFiles/17219.dir/백준/2023-11-05/17219.cpp.o: CXX_COMPILER__17219_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-05/17219.cpp || cmake_object_order_depends_target_17219
   DEP_FILE = CMakeFiles/17219.dir/백준/2023-11-05/17219.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/17219.dir
   OBJECT_FILE_DIR = CMakeFiles/17219.dir/백준/2023-11-05
 
@@ -3443,7 +3443,7 @@ build CMakeFiles/17219.dir/백준/2023-11-05/17219.cpp.o: CXX_COMPILER__17219_un
 # Link the executable 17219
 
 build 17219: CXX_EXECUTABLE_LINKER__17219_Debug CMakeFiles/17219.dir/백준/2023-11-05/17219.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/17219.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -3461,7 +3461,7 @@ build cmake_object_order_depends_target_17413: phony || CMakeFiles/17413.dir
 
 build CMakeFiles/17413.dir/백준/2023-11-05/17413.cpp.o: CXX_COMPILER__17413_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-05/17413.cpp || cmake_object_order_depends_target_17413
   DEP_FILE = CMakeFiles/17413.dir/백준/2023-11-05/17413.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/17413.dir
   OBJECT_FILE_DIR = CMakeFiles/17413.dir/백준/2023-11-05
 
@@ -3474,7 +3474,7 @@ build CMakeFiles/17413.dir/백준/2023-11-05/17413.cpp.o: CXX_COMPILER__17413_un
 # Link the executable 17413
 
 build 17413: CXX_EXECUTABLE_LINKER__17413_Debug CMakeFiles/17413.dir/백준/2023-11-05/17413.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/17413.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -3492,7 +3492,7 @@ build cmake_object_order_depends_target_1074: phony || CMakeFiles/1074.dir
 
 build CMakeFiles/1074.dir/백준/2023-11-06/1074.cpp.o: CXX_COMPILER__1074_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-06/1074.cpp || cmake_object_order_depends_target_1074
   DEP_FILE = CMakeFiles/1074.dir/백준/2023-11-06/1074.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/1074.dir
   OBJECT_FILE_DIR = CMakeFiles/1074.dir/백준/2023-11-06
 
@@ -3505,7 +3505,7 @@ build CMakeFiles/1074.dir/백준/2023-11-06/1074.cpp.o: CXX_COMPILER__1074_unsca
 # Link the executable 1074
 
 build 1074: CXX_EXECUTABLE_LINKER__1074_Debug CMakeFiles/1074.dir/백준/2023-11-06/1074.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/1074.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -3523,7 +3523,7 @@ build cmake_object_order_depends_target_swea1238: phony || CMakeFiles/swea1238.d
 
 build CMakeFiles/swea1238.dir/백준/2023-11-06/swea1238.cpp.o: CXX_COMPILER__swea1238_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-06/swea1238.cpp || cmake_object_order_depends_target_swea1238
   DEP_FILE = CMakeFiles/swea1238.dir/백준/2023-11-06/swea1238.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/swea1238.dir
   OBJECT_FILE_DIR = CMakeFiles/swea1238.dir/백준/2023-11-06
 
@@ -3536,7 +3536,7 @@ build CMakeFiles/swea1238.dir/백준/2023-11-06/swea1238.cpp.o: CXX_COMPILER__sw
 # Link the executable swea1238
 
 build swea1238: CXX_EXECUTABLE_LINKER__swea1238_Debug CMakeFiles/swea1238.dir/백준/2023-11-06/swea1238.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/swea1238.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -3554,7 +3554,7 @@ build cmake_object_order_depends_target_1931: phony || CMakeFiles/1931.dir
 
 build CMakeFiles/1931.dir/백준/2023-11-06/1931.cpp.o: CXX_COMPILER__1931_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-06/1931.cpp || cmake_object_order_depends_target_1931
   DEP_FILE = CMakeFiles/1931.dir/백준/2023-11-06/1931.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/1931.dir
   OBJECT_FILE_DIR = CMakeFiles/1931.dir/백준/2023-11-06
 
@@ -3567,7 +3567,7 @@ build CMakeFiles/1931.dir/백준/2023-11-06/1931.cpp.o: CXX_COMPILER__1931_unsca
 # Link the executable 1931
 
 build 1931: CXX_EXECUTABLE_LINKER__1931_Debug CMakeFiles/1931.dir/백준/2023-11-06/1931.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/1931.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -3585,7 +3585,7 @@ build cmake_object_order_depends_target_2630: phony || CMakeFiles/2630.dir
 
 build CMakeFiles/2630.dir/백준/2023-11-06/2630.cpp.o: CXX_COMPILER__2630_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-06/2630.cpp || cmake_object_order_depends_target_2630
   DEP_FILE = CMakeFiles/2630.dir/백준/2023-11-06/2630.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/2630.dir
   OBJECT_FILE_DIR = CMakeFiles/2630.dir/백준/2023-11-06
 
@@ -3598,7 +3598,7 @@ build CMakeFiles/2630.dir/백준/2023-11-06/2630.cpp.o: CXX_COMPILER__2630_unsca
 # Link the executable 2630
 
 build 2630: CXX_EXECUTABLE_LINKER__2630_Debug CMakeFiles/2630.dir/백준/2023-11-06/2630.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/2630.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -3614,11 +3614,11 @@ build 2630: CXX_EXECUTABLE_LINKER__2630_Debug CMakeFiles/2630.dir/백준/2023-11
 
 build cmake_object_order_depends_target_7576: phony || CMakeFiles/7576.dir
 
-build CMakeFiles/7576.dir/백준/2023-11-20/7576.cpp.o: CXX_COMPILER__7576_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-20/7576.cpp || cmake_object_order_depends_target_7576
-  DEP_FILE = CMakeFiles/7576.dir/백준/2023-11-20/7576.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+build CMakeFiles/7576.dir/바킹독_알고리즘/BFS/7576.cpp.o: CXX_COMPILER__7576_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/BFS/7576.cpp || cmake_object_order_depends_target_7576
+  DEP_FILE = CMakeFiles/7576.dir/바킹독_알고리즘/BFS/7576.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/7576.dir
-  OBJECT_FILE_DIR = CMakeFiles/7576.dir/백준/2023-11-20
+  OBJECT_FILE_DIR = CMakeFiles/7576.dir/바킹독_알고리즘/BFS
 
 
 # =============================================================================
@@ -3628,8 +3628,8 @@ build CMakeFiles/7576.dir/백준/2023-11-20/7576.cpp.o: CXX_COMPILER__7576_unsca
 #############################################
 # Link the executable 7576
 
-build 7576: CXX_EXECUTABLE_LINKER__7576_Debug CMakeFiles/7576.dir/백준/2023-11-20/7576.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+build 7576: CXX_EXECUTABLE_LINKER__7576_Debug CMakeFiles/7576.dir/바킹독_알고리즘/BFS/7576.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/7576.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -3647,7 +3647,7 @@ build cmake_object_order_depends_target_11659: phony || CMakeFiles/11659.dir
 
 build CMakeFiles/11659.dir/백준/2023-11-20/11659.cpp.o: CXX_COMPILER__11659_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-20/11659.cpp || cmake_object_order_depends_target_11659
   DEP_FILE = CMakeFiles/11659.dir/백준/2023-11-20/11659.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/11659.dir
   OBJECT_FILE_DIR = CMakeFiles/11659.dir/백준/2023-11-20
 
@@ -3660,7 +3660,7 @@ build CMakeFiles/11659.dir/백준/2023-11-20/11659.cpp.o: CXX_COMPILER__11659_un
 # Link the executable 11659
 
 build 11659: CXX_EXECUTABLE_LINKER__11659_Debug CMakeFiles/11659.dir/백준/2023-11-20/11659.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/11659.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -3678,7 +3678,7 @@ build cmake_object_order_depends_target_11724: phony || CMakeFiles/11724.dir
 
 build CMakeFiles/11724.dir/백준/2023-11-20/11724.cpp.o: CXX_COMPILER__11724_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-20/11724.cpp || cmake_object_order_depends_target_11724
   DEP_FILE = CMakeFiles/11724.dir/백준/2023-11-20/11724.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/11724.dir
   OBJECT_FILE_DIR = CMakeFiles/11724.dir/백준/2023-11-20
 
@@ -3691,7 +3691,7 @@ build CMakeFiles/11724.dir/백준/2023-11-20/11724.cpp.o: CXX_COMPILER__11724_un
 # Link the executable 11724
 
 build 11724: CXX_EXECUTABLE_LINKER__11724_Debug CMakeFiles/11724.dir/백준/2023-11-20/11724.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/11724.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -3709,7 +3709,7 @@ build cmake_object_order_depends_target_11726: phony || CMakeFiles/11726.dir
 
 build CMakeFiles/11726.dir/백준/2023-11-21/11726.cpp.o: CXX_COMPILER__11726_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-21/11726.cpp || cmake_object_order_depends_target_11726
   DEP_FILE = CMakeFiles/11726.dir/백준/2023-11-21/11726.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/11726.dir
   OBJECT_FILE_DIR = CMakeFiles/11726.dir/백준/2023-11-21
 
@@ -3722,7 +3722,7 @@ build CMakeFiles/11726.dir/백준/2023-11-21/11726.cpp.o: CXX_COMPILER__11726_un
 # Link the executable 11726
 
 build 11726: CXX_EXECUTABLE_LINKER__11726_Debug CMakeFiles/11726.dir/백준/2023-11-21/11726.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/11726.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -3740,7 +3740,7 @@ build cmake_object_order_depends_target_11726_1: phony || CMakeFiles/11726_1.dir
 
 build CMakeFiles/11726_1.dir/백준/2023-11-21/11726_1.cpp.o: CXX_COMPILER__11726_1_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-21/11726_1.cpp || cmake_object_order_depends_target_11726_1
   DEP_FILE = CMakeFiles/11726_1.dir/백준/2023-11-21/11726_1.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/11726_1.dir
   OBJECT_FILE_DIR = CMakeFiles/11726_1.dir/백준/2023-11-21
 
@@ -3753,7 +3753,7 @@ build CMakeFiles/11726_1.dir/백준/2023-11-21/11726_1.cpp.o: CXX_COMPILER__1172
 # Link the executable 11726_1
 
 build 11726_1: CXX_EXECUTABLE_LINKER__11726_1_Debug CMakeFiles/11726_1.dir/백준/2023-11-21/11726_1.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/11726_1.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -3771,7 +3771,7 @@ build cmake_object_order_depends_target_14940: phony || CMakeFiles/14940.dir
 
 build CMakeFiles/14940.dir/백준/2023-11-21/14940.cpp.o: CXX_COMPILER__14940_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-21/14940.cpp || cmake_object_order_depends_target_14940
   DEP_FILE = CMakeFiles/14940.dir/백준/2023-11-21/14940.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/14940.dir
   OBJECT_FILE_DIR = CMakeFiles/14940.dir/백준/2023-11-21
 
@@ -3784,7 +3784,7 @@ build CMakeFiles/14940.dir/백준/2023-11-21/14940.cpp.o: CXX_COMPILER__14940_un
 # Link the executable 14940
 
 build 14940: CXX_EXECUTABLE_LINKER__14940_Debug CMakeFiles/14940.dir/백준/2023-11-21/14940.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/14940.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -3802,7 +3802,7 @@ build cmake_object_order_depends_target_1107: phony || CMakeFiles/1107.dir
 
 build CMakeFiles/1107.dir/백준/2023-11-22/1107.cpp.o: CXX_COMPILER__1107_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-22/1107.cpp || cmake_object_order_depends_target_1107
   DEP_FILE = CMakeFiles/1107.dir/백준/2023-11-22/1107.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/1107.dir
   OBJECT_FILE_DIR = CMakeFiles/1107.dir/백준/2023-11-22
 
@@ -3815,7 +3815,7 @@ build CMakeFiles/1107.dir/백준/2023-11-22/1107.cpp.o: CXX_COMPILER__1107_unsca
 # Link the executable 1107
 
 build 1107: CXX_EXECUTABLE_LINKER__1107_Debug CMakeFiles/1107.dir/백준/2023-11-22/1107.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/1107.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -3833,7 +3833,7 @@ build cmake_object_order_depends_target_1389: phony || CMakeFiles/1389.dir
 
 build CMakeFiles/1389.dir/백준/2023-11-22/1389.cpp.o: CXX_COMPILER__1389_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-22/1389.cpp || cmake_object_order_depends_target_1389
   DEP_FILE = CMakeFiles/1389.dir/백준/2023-11-22/1389.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/1389.dir
   OBJECT_FILE_DIR = CMakeFiles/1389.dir/백준/2023-11-22
 
@@ -3846,7 +3846,7 @@ build CMakeFiles/1389.dir/백준/2023-11-22/1389.cpp.o: CXX_COMPILER__1389_unsca
 # Link the executable 1389
 
 build 1389: CXX_EXECUTABLE_LINKER__1389_Debug CMakeFiles/1389.dir/백준/2023-11-22/1389.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/1389.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -3854,35 +3854,531 @@ build 1389: CXX_EXECUTABLE_LINKER__1389_Debug CMakeFiles/1389.dir/백준/2023-11
   TARGET_PDB = 1389.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target 2579
+# Object build statements for EXECUTABLE target 1926
 
 
 #############################################
-# Order-only phony target for 2579
+# Order-only phony target for 1926
 
-build cmake_object_order_depends_target_2579: phony || CMakeFiles/2579.dir
+build cmake_object_order_depends_target_1926: phony || CMakeFiles/1926.dir
 
-build CMakeFiles/2579.dir/백준/2023-11-22/2579.cpp.o: CXX_COMPILER__2579_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/백준/2023-11-22/2579.cpp || cmake_object_order_depends_target_2579
-  DEP_FILE = CMakeFiles/2579.dir/백준/2023-11-22/2579.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/2579.dir
-  OBJECT_FILE_DIR = CMakeFiles/2579.dir/백준/2023-11-22
+build CMakeFiles/1926.dir/바킹독_알고리즘/BFS/1926.cpp.o: CXX_COMPILER__1926_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/BFS/1926.cpp || cmake_object_order_depends_target_1926
+  DEP_FILE = CMakeFiles/1926.dir/바킹독_알고리즘/BFS/1926.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/1926.dir
+  OBJECT_FILE_DIR = CMakeFiles/1926.dir/바킹독_알고리즘/BFS
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target 2579
+# Link build statements for EXECUTABLE target 1926
 
 
 #############################################
-# Link the executable 2579
+# Link the executable 1926
 
-build 2579: CXX_EXECUTABLE_LINKER__2579_Debug CMakeFiles/2579.dir/백준/2023-11-22/2579.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
-  OBJECT_DIR = CMakeFiles/2579.dir
+build 1926: CXX_EXECUTABLE_LINKER__1926_Debug CMakeFiles/1926.dir/바킹독_알고리즘/BFS/1926.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/1926.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_FILE = 2579
-  TARGET_PDB = 2579.dbg
+  TARGET_FILE = 1926
+  TARGET_PDB = 1926.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 2178
+
+
+#############################################
+# Order-only phony target for 2178
+
+build cmake_object_order_depends_target_2178: phony || CMakeFiles/2178.dir
+
+build CMakeFiles/2178.dir/바킹독_알고리즘/BFS/2178.cpp.o: CXX_COMPILER__2178_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/BFS/2178.cpp || cmake_object_order_depends_target_2178
+  DEP_FILE = CMakeFiles/2178.dir/바킹독_알고리즘/BFS/2178.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/2178.dir
+  OBJECT_FILE_DIR = CMakeFiles/2178.dir/바킹독_알고리즘/BFS
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 2178
+
+
+#############################################
+# Link the executable 2178
+
+build 2178: CXX_EXECUTABLE_LINKER__2178_Debug CMakeFiles/2178.dir/바킹독_알고리즘/BFS/2178.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/2178.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 2178
+  TARGET_PDB = 2178.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 4179
+
+
+#############################################
+# Order-only phony target for 4179
+
+build cmake_object_order_depends_target_4179: phony || CMakeFiles/4179.dir
+
+build CMakeFiles/4179.dir/바킹독_알고리즘/BFS/4179.cpp.o: CXX_COMPILER__4179_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/BFS/4179.cpp || cmake_object_order_depends_target_4179
+  DEP_FILE = CMakeFiles/4179.dir/바킹독_알고리즘/BFS/4179.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/4179.dir
+  OBJECT_FILE_DIR = CMakeFiles/4179.dir/바킹독_알고리즘/BFS
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 4179
+
+
+#############################################
+# Link the executable 4179
+
+build 4179: CXX_EXECUTABLE_LINKER__4179_Debug CMakeFiles/4179.dir/바킹독_알고리즘/BFS/4179.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/4179.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 4179
+  TARGET_PDB = 4179.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 1697
+
+
+#############################################
+# Order-only phony target for 1697
+
+build cmake_object_order_depends_target_1697: phony || CMakeFiles/1697.dir
+
+build CMakeFiles/1697.dir/바킹독_알고리즘/BFS/1697.cpp.o: CXX_COMPILER__1697_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/BFS/1697.cpp || cmake_object_order_depends_target_1697
+  DEP_FILE = CMakeFiles/1697.dir/바킹독_알고리즘/BFS/1697.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/1697.dir
+  OBJECT_FILE_DIR = CMakeFiles/1697.dir/바킹독_알고리즘/BFS
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 1697
+
+
+#############################################
+# Link the executable 1697
+
+build 1697: CXX_EXECUTABLE_LINKER__1697_Debug CMakeFiles/1697.dir/바킹독_알고리즘/BFS/1697.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/1697.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 1697
+  TARGET_PDB = 1697.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 1012
+
+
+#############################################
+# Order-only phony target for 1012
+
+build cmake_object_order_depends_target_1012: phony || CMakeFiles/1012.dir
+
+build CMakeFiles/1012.dir/바킹독_알고리즘/BFS/1012.cpp.o: CXX_COMPILER__1012_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/BFS/1012.cpp || cmake_object_order_depends_target_1012
+  DEP_FILE = CMakeFiles/1012.dir/바킹독_알고리즘/BFS/1012.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/1012.dir
+  OBJECT_FILE_DIR = CMakeFiles/1012.dir/바킹독_알고리즘/BFS
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 1012
+
+
+#############################################
+# Link the executable 1012
+
+build 1012: CXX_EXECUTABLE_LINKER__1012_Debug CMakeFiles/1012.dir/바킹독_알고리즘/BFS/1012.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/1012.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 1012
+  TARGET_PDB = 1012.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 10026
+
+
+#############################################
+# Order-only phony target for 10026
+
+build cmake_object_order_depends_target_10026: phony || CMakeFiles/10026.dir
+
+build CMakeFiles/10026.dir/바킹독_알고리즘/BFS/10026.cpp.o: CXX_COMPILER__10026_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/BFS/10026.cpp || cmake_object_order_depends_target_10026
+  DEP_FILE = CMakeFiles/10026.dir/바킹독_알고리즘/BFS/10026.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/10026.dir
+  OBJECT_FILE_DIR = CMakeFiles/10026.dir/바킹독_알고리즘/BFS
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 10026
+
+
+#############################################
+# Link the executable 10026
+
+build 10026: CXX_EXECUTABLE_LINKER__10026_Debug CMakeFiles/10026.dir/바킹독_알고리즘/BFS/10026.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/10026.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 10026
+  TARGET_PDB = 10026.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 7569
+
+
+#############################################
+# Order-only phony target for 7569
+
+build cmake_object_order_depends_target_7569: phony || CMakeFiles/7569.dir
+
+build CMakeFiles/7569.dir/바킹독_알고리즘/BFS/7569.cpp.o: CXX_COMPILER__7569_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/BFS/7569.cpp || cmake_object_order_depends_target_7569
+  DEP_FILE = CMakeFiles/7569.dir/바킹독_알고리즘/BFS/7569.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/7569.dir
+  OBJECT_FILE_DIR = CMakeFiles/7569.dir/바킹독_알고리즘/BFS
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 7569
+
+
+#############################################
+# Link the executable 7569
+
+build 7569: CXX_EXECUTABLE_LINKER__7569_Debug CMakeFiles/7569.dir/바킹독_알고리즘/BFS/7569.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/7569.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 7569
+  TARGET_PDB = 7569.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 7562
+
+
+#############################################
+# Order-only phony target for 7562
+
+build cmake_object_order_depends_target_7562: phony || CMakeFiles/7562.dir
+
+build CMakeFiles/7562.dir/바킹독_알고리즘/BFS/7562.cpp.o: CXX_COMPILER__7562_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/BFS/7562.cpp || cmake_object_order_depends_target_7562
+  DEP_FILE = CMakeFiles/7562.dir/바킹독_알고리즘/BFS/7562.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/7562.dir
+  OBJECT_FILE_DIR = CMakeFiles/7562.dir/바킹독_알고리즘/BFS
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 7562
+
+
+#############################################
+# Link the executable 7562
+
+build 7562: CXX_EXECUTABLE_LINKER__7562_Debug CMakeFiles/7562.dir/바킹독_알고리즘/BFS/7562.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/7562.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 7562
+  TARGET_PDB = 7562.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 5427
+
+
+#############################################
+# Order-only phony target for 5427
+
+build cmake_object_order_depends_target_5427: phony || CMakeFiles/5427.dir
+
+build CMakeFiles/5427.dir/바킹독_알고리즘/BFS/5427.cpp.o: CXX_COMPILER__5427_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/BFS/5427.cpp || cmake_object_order_depends_target_5427
+  DEP_FILE = CMakeFiles/5427.dir/바킹독_알고리즘/BFS/5427.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/5427.dir
+  OBJECT_FILE_DIR = CMakeFiles/5427.dir/바킹독_알고리즘/BFS
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 5427
+
+
+#############################################
+# Link the executable 5427
+
+build 5427: CXX_EXECUTABLE_LINKER__5427_Debug CMakeFiles/5427.dir/바킹독_알고리즘/BFS/5427.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/5427.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 5427
+  TARGET_PDB = 5427.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 2583
+
+
+#############################################
+# Order-only phony target for 2583
+
+build cmake_object_order_depends_target_2583: phony || CMakeFiles/2583.dir
+
+build CMakeFiles/2583.dir/바킹독_알고리즘/BFS/2583.cpp.o: CXX_COMPILER__2583_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/BFS/2583.cpp || cmake_object_order_depends_target_2583
+  DEP_FILE = CMakeFiles/2583.dir/바킹독_알고리즘/BFS/2583.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/2583.dir
+  OBJECT_FILE_DIR = CMakeFiles/2583.dir/바킹독_알고리즘/BFS
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 2583
+
+
+#############################################
+# Link the executable 2583
+
+build 2583: CXX_EXECUTABLE_LINKER__2583_Debug CMakeFiles/2583.dir/바킹독_알고리즘/BFS/2583.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/2583.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 2583
+  TARGET_PDB = 2583.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 2667
+
+
+#############################################
+# Order-only phony target for 2667
+
+build cmake_object_order_depends_target_2667: phony || CMakeFiles/2667.dir
+
+build CMakeFiles/2667.dir/바킹독_알고리즘/BFS/2667.cpp.o: CXX_COMPILER__2667_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/BFS/2667.cpp || cmake_object_order_depends_target_2667
+  DEP_FILE = CMakeFiles/2667.dir/바킹독_알고리즘/BFS/2667.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/2667.dir
+  OBJECT_FILE_DIR = CMakeFiles/2667.dir/바킹독_알고리즘/BFS
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 2667
+
+
+#############################################
+# Link the executable 2667
+
+build 2667: CXX_EXECUTABLE_LINKER__2667_Debug CMakeFiles/2667.dir/바킹독_알고리즘/BFS/2667.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/2667.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 2667
+  TARGET_PDB = 2667.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 5014
+
+
+#############################################
+# Order-only phony target for 5014
+
+build cmake_object_order_depends_target_5014: phony || CMakeFiles/5014.dir
+
+build CMakeFiles/5014.dir/바킹독_알고리즘/BFS/5014.cpp.o: CXX_COMPILER__5014_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/BFS/5014.cpp || cmake_object_order_depends_target_5014
+  DEP_FILE = CMakeFiles/5014.dir/바킹독_알고리즘/BFS/5014.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/5014.dir
+  OBJECT_FILE_DIR = CMakeFiles/5014.dir/바킹독_알고리즘/BFS
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 5014
+
+
+#############################################
+# Link the executable 5014
+
+build 5014: CXX_EXECUTABLE_LINKER__5014_Debug CMakeFiles/5014.dir/바킹독_알고리즘/BFS/5014.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/5014.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 5014
+  TARGET_PDB = 5014.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 2468
+
+
+#############################################
+# Order-only phony target for 2468
+
+build cmake_object_order_depends_target_2468: phony || CMakeFiles/2468.dir
+
+build CMakeFiles/2468.dir/바킹독_알고리즘/BFS/2468.cpp.o: CXX_COMPILER__2468_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/BFS/2468.cpp || cmake_object_order_depends_target_2468
+  DEP_FILE = CMakeFiles/2468.dir/바킹독_알고리즘/BFS/2468.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/2468.dir
+  OBJECT_FILE_DIR = CMakeFiles/2468.dir/바킹독_알고리즘/BFS
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 2468
+
+
+#############################################
+# Link the executable 2468
+
+build 2468: CXX_EXECUTABLE_LINKER__2468_Debug CMakeFiles/2468.dir/바킹독_알고리즘/BFS/2468.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/2468.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 2468
+  TARGET_PDB = 2468.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 6593
+
+
+#############################################
+# Order-only phony target for 6593
+
+build cmake_object_order_depends_target_6593: phony || CMakeFiles/6593.dir
+
+build CMakeFiles/6593.dir/바킹독_알고리즘/BFS/6593.cpp.o: CXX_COMPILER__6593_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/BFS/6593.cpp || cmake_object_order_depends_target_6593
+  DEP_FILE = CMakeFiles/6593.dir/바킹독_알고리즘/BFS/6593.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/6593.dir
+  OBJECT_FILE_DIR = CMakeFiles/6593.dir/바킹독_알고리즘/BFS
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 6593
+
+
+#############################################
+# Link the executable 6593
+
+build 6593: CXX_EXECUTABLE_LINKER__6593_Debug CMakeFiles/6593.dir/바킹독_알고리즘/BFS/6593.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/6593.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 6593
+  TARGET_PDB = 6593.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 2206
+
+
+#############################################
+# Order-only phony target for 2206
+
+build cmake_object_order_depends_target_2206: phony || CMakeFiles/2206.dir
+
+build CMakeFiles/2206.dir/바킹독_알고리즘/BFS/2206.cpp.o: CXX_COMPILER__2206_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/BFS/2206.cpp || cmake_object_order_depends_target_2206
+  DEP_FILE = CMakeFiles/2206.dir/바킹독_알고리즘/BFS/2206.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/2206.dir
+  OBJECT_FILE_DIR = CMakeFiles/2206.dir/바킹독_알고리즘/BFS
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 2206
+
+
+#############################################
+# Link the executable 2206
+
+build 2206: CXX_EXECUTABLE_LINKER__2206_Debug CMakeFiles/2206.dir/바킹독_알고리즘/BFS/2206.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/2206.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 2206
+  TARGET_PDB = 2206.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 9466
+
+
+#############################################
+# Order-only phony target for 9466
+
+build cmake_object_order_depends_target_9466: phony || CMakeFiles/9466.dir
+
+build CMakeFiles/9466.dir/바킹독_알고리즘/BFS/9466.cpp.o: CXX_COMPILER__9466_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/BFS/9466.cpp || cmake_object_order_depends_target_9466
+  DEP_FILE = CMakeFiles/9466.dir/바킹독_알고리즘/BFS/9466.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/9466.dir
+  OBJECT_FILE_DIR = CMakeFiles/9466.dir/바킹독_알고리즘/BFS
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 9466
+
+
+#############################################
+# Link the executable 9466
+
+build 9466: CXX_EXECUTABLE_LINKER__9466_Debug CMakeFiles/9466.dir/바킹독_알고리즘/BFS/9466.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/9466.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 9466
+  TARGET_PDB = 9466.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 2573
+
+
+#############################################
+# Order-only phony target for 2573
+
+build cmake_object_order_depends_target_2573: phony || CMakeFiles/2573.dir
+
+build CMakeFiles/2573.dir/바킹독_알고리즘/BFS/2573.cpp.o: CXX_COMPILER__2573_unscanned_Debug /Users/seoilhyeon/algorithm-study/cpp/바킹독_알고리즘/BFS/2573.cpp || cmake_object_order_depends_target_2573
+  DEP_FILE = CMakeFiles/2573.dir/바킹독_알고리즘/BFS/2573.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/2573.dir
+  OBJECT_FILE_DIR = CMakeFiles/2573.dir/바킹독_알고리즘/BFS
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 2573
+
+
+#############################################
+# Link the executable 2573
+
+build 2573: CXX_EXECUTABLE_LINKER__2573_Debug CMakeFiles/2573.dir/바킹독_알고리즘/BFS/2573.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/2573.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 2573
+  TARGET_PDB = 2573.dbg
 
 
 #############################################
@@ -3918,7 +4414,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/seoilhyeon/algorithm-study/cpp/cmake-build-debug
 
-build all: phony prob01 prob02 prob03 prob04 1000 1267 2309 2438 2439 2440 2441 2442 2443 2444 2445 2446 2480 2490 2557 2562 2576 2587 2752 2753 9498 10093 10171 10804 10869 10871 15552 1475 1919 2577 3273 3273_2 3273_3 10807 10808 11328 array_test 13300 func2 vector_example linked_list_test list_example 1406 1408_list_impl 5397 1158 1158_1 1158_2 1158_3 stack_test stack_example 10828 10828_1 10773 1874 2493 6198 17298 3015 6549 1725 queue_test 10845 10845_1 18258 18258_1 2164 queue_example deque_test deque_example 10866 10866_1 1021 5430 11003 4949 3986 9012 10799 2504 2504_1 1269 1302 1417 1620 1655 1715 1717 1764 1918 1920 1920_1 1927 2042 2161 7785 10815 10816 10815_1 10816_1 11279 11286 11478 11866 14425 17219 17413 1074 swea1238 1931 2630 7576 11659 11724 11726 11726_1 14940 1107 1389 2579
+build all: phony prob01 prob02 prob03 prob04 1000 1267 2309 2438 2439 2440 2441 2442 2443 2444 2445 2446 2480 2490 2557 2562 2576 2587 2752 2753 9498 10093 10171 10804 10869 10871 15552 1475 1919 2577 3273 3273_2 3273_3 10807 10808 11328 array_test 13300 func2 vector_example linked_list_test list_example 1406 1408_list_impl 5397 1158 1158_1 1158_2 1158_3 stack_test stack_example 10828 10828_1 10773 1874 2493 6198 17298 3015 6549 1725 queue_test 10845 10845_1 18258 18258_1 2164 queue_example deque_test deque_example 10866 10866_1 1021 5430 11003 4949 3986 9012 10799 2504 2504_1 1269 1302 1417 1620 1655 1715 1717 1764 1918 1920 1920_1 1927 2042 2161 7785 10815 10816 10815_1 10816_1 11279 11286 11478 11866 14425 17219 17413 1074 swea1238 1931 2630 7576 11659 11724 11726 11726_1 14940 1107 1389 1926 2178 4179 1697 1012 10026 7569 7562 5427 2583 2667 5014 2468 6593 2206 9466 2573
 
 # =============================================================================
 # Built-in targets

@@ -143,5 +143,6 @@
 /Users/seoilhyeon/algorithm-study/cpp/cmake-build-debug/CMakeFiles/2621.dir
 /Users/seoilhyeon/algorithm-study/cpp/cmake-build-debug/CMakeFiles/2816.dir
 /Users/seoilhyeon/algorithm-study/cpp/cmake-build-debug/CMakeFiles/2589.dir
+/Users/seoilhyeon/algorithm-study/cpp/cmake-build-debug/CMakeFiles/2146.dir
 /Users/seoilhyeon/algorithm-study/cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/seoilhyeon/algorithm-study/cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -79,13 +79,13 @@ int main() {
 	for (int i = 0; i < n; i++) {
 		for (int j = 0; j < n; j++) {
 			if (!board[i][j]) continue;
-			init_is_same_continent(i, j);
 			for (int dir = 0; dir < 4; dir++) {
 				int nx = i + dx[dir];
 				int ny = j + dy[dir];
 
 				if (nx < 0 || nx >= n || ny < 0 || ny >= n) continue;
 				if (board[nx][ny] || is_done[nx][ny]) continue;
+				init_is_same_continent(i, j);
 				ans = min(ans, bfs(nx, ny));
 				is_done[nx][ny] = true;
 			}

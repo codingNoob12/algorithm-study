@@ -44,6 +44,9 @@
 .idea/**/shelf
 */.idea/
 .idea/
+cpp/CMakeLists.txt
+cpp/cmake-build-debug
+.idea
 
 # AWS User-specific
 .idea/**/aws.xml

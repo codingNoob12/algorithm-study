@@ -47,6 +47,7 @@
 cpp/CMakeLists.txt
 cpp/cmake-build-debug
 .idea
+**/.vscode
 
 # AWS User-specific
 .idea/**/aws.xml

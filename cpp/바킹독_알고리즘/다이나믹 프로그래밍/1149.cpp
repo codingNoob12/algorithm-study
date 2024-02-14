@@ -1,0 +1,24 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int n;
+int cost[1000][3], dp[1000][3];
+
+int main() {
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+
+    cin >> n;
+    for (int i = 0; i < n; i++) {
+        for (int j = 0; j < 3; j++)
+            cin >> cost[i][j];
+    }
+
+    copy(cost[0], cost[0] + 3, dp[0]);
+    for (int i = 1; i < n; i++) {
+        dp[i][0] = min(dp[i - 1][1], dp[i - 1][2]) + cost[i][0];
+        dp[i][1] = min(dp[i - 1][0], dp[i - 1][2]) + cost[i][1];
+        dp[i][2] = min(dp[i - 1][0], dp[i - 1][1]) + cost[i][2];
+    }
+    cout << *min_element(dp[n - 1], dp[n - 1] + 3);
+}
